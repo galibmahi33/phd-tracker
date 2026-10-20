@@ -1,0 +1,62 @@
+name: Update opportunities
+
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 05:30 Bangladesh time (UTC+6)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Collect, screen and score
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          PROFILE_TEXT: ${{ secrets.PROFILE_TEXT }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ALERT_FEEDS: ${{ secrets.ALERT_FEEDS }}
+        run: python -m tracker.run
+
+      - name: Save data to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update opportunities $(date -u +%F)"
+          git push
+
+      - name: Build dashboard
+        run: python -m tracker.build_site
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v5

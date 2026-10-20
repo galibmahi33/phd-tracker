@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PhD Opportunity Tracker</title>
+<meta name="description" content="Daily-updated PhD and Master's recruitment posts in medical imaging and AI in medicine.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="title-row">
+      <h1>PhD Opportunity Tracker</h1>
+      <p class="updated" id="updated">Loading…</p>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="run-warning" id="runWarning" hidden></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <details class="filters" id="filtersBox" open>
+    <summary>Filters <span class="count" id="resultCount"></span></summary>
+    <div class="filter-grid">
+      <label class="wide">Search
+        <input type="search" id="f-q" placeholder="Name, university, topic…">
+      </label>
+      <label>Country
+        <select id="f-country"></select>
+      </label>
+      <label>Degree
+        <select id="f-degree">
+          <option value="">Any</option>
+          <option>PhD</option>
+          <option>Master's</option>
+          <option>RA</option>
+        </select>
+      </label>
+      <label>Funding
+        <select id="f-funding">
+          <option value="">Any</option>
+          <option value="Fully funded">Fully funded</option>
+          <option value="any-funded">Any funding mentioned</option>
+          <option value="Not stated">Not stated</option>
+        </select>
+      </label>
+      <label>Research area
+        <select id="f-area"></select>
+      </label>
+      <label>University
+        <select id="f-university"></select>
+      </label>
+      <label>Deadline
+        <select id="f-deadline">
+          <option value="">Any</option>
+          <option value="open">Not passed</option>
+          <option value="30">Within 30 days</option>
+          <option value="has">Has a deadline</option>
+        </select>
+      </label>
+      <label>Status
+        <select id="f-status">
+          <option value="active">Active</option>
+          <option value="interested">Interested</option>
+          <option value="applied">Applied</option>
+          <option value="hidden">Hidden</option>
+          <option value="all">All</option>
+        </select>
+      </label>
+      <label>Sort by
+        <select id="f-sort">
+          <option value="match">Best match</option>
+          <option value="found">Recently found</option>
+          <option value="posted">Newest post</option>
+          <option value="deadline">Deadline soonest</option>
+        </select>
+      </label>
+      <label class="wide">Minimum match: <output id="f-min-out">40</output>
+        <input type="range" id="f-min" min="0" max="100" step="5" value="40">
+      </label>
+      <div class="filter-actions wide">
+        <label class="check"><input type="checkbox" id="f-new"> New only</label>
+        <button type="button" id="markSeen" class="ghost">Mark all as seen</button>
+        <button type="button" id="reset" class="ghost">Reset filters</button>
+      </div>
+    </div>
+  </details>
+
+  <section id="list" class="list" aria-live="polite"></section>
+</main>
+
+<footer class="wrap foot">
+  <p>Collected from public search results and alerts, then screened and scored by Claude. Details can be wrong or missing, so always open the original post before acting. Underlined fields were inferred, not stated in the post.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
