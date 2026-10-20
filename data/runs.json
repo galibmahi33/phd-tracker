@@ -10,5 +10,18 @@
   "errors": [
    "claude error: Failed to authenticate. API Error: 401 Invalid bearer token"
   ]
+ },
+ {
+  "at": "2026-10-20T20:09:40+00:00",
+  "collected": 71,
+  "new_candidates": 3,
+  "already_seen": 65,
+  "filtered_out": 3,
+  "sent_to_claude": 28,
+  "accepted": 15,
+  "rejected": 12,
+  "merged": 1,
+  "pending": 0,
+  "errors": []
  }
 ]

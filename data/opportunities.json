@@ -1,1 +1,590 @@
-[]
+[
+ {
+  "id": "li:7517218938779287552",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-17",
+  "poster_name": "PhDScanner",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "Karlstad University",
+  "lab": "",
+  "country": "Sweden",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Machine Learning",
+   "Biomedical Signal Processing"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Five fully funded PhD positions at Karlstad University, Sweden, including machine learning in medicine using medical imaging, wearable sensor data and clinical measurements.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match and fully funded, but located in Sweden, outside the target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/phdscanner_phd-in-machine-learning-in-medicine-activity-7517218938779287552-w0pk",
+  "profile_url": "https://www.linkedin.com/company/phdscanner/",
+  "title": "PhD in Machine Learning in Medicine | PhDScanner",
+  "snippet": "... medical imaging, wearable sensor data, and clinical measurements to model ... Five Fully Funded #PhDPositions at Karlstad University, Sweden. PhDScanner ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/phdscanner_phd-in-machine-learning-in-medicine-activity-7517218938779287552-w0pk",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516271346381639680",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "Valentina Mantua",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Resolution Pharmacology"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD projects in resolution pharmacology, with RA and cardiovascular/metabolic comorbidities as the shared focus.",
+  "relevance": 8,
+  "relevance_reason": "Pharmacology wet-lab topic, not imaging AI, and location unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/valentina-mantua-90bb7045_development-of-a-scoring-system-via-an-interpretable-activity-7516271346381639680-upaX",
+  "profile_url": "https://www.linkedin.com/in/valentina-mantua-90bb7045/",
+  "title": "FDA AI Scoring System for Melanoma Prognosis Developed",
+  "snippet": "... fully funded PhD projects around exactly this science: resolution pharmacology, with RA and its cardiovascular and metabolic comorbidities as the shared ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/valentina-mantua-90bb7045_development-of-a-scoring-system-via-an-interpretable-activity-7516271346381639680-upaX",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516064122355163136",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "Welfare Technologies Research Group",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "",
+  "lab": "Welfare Technologies Research Group",
+  "country": "Estonia",
+  "research_areas": [
+   "Medical AI",
+   "Health Technology"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting PhD students for the AMICA project on AI for mindful care and aging in Estonia.",
+  "relevance": 22,
+  "relevance_reason": "Medical AI topic but in Estonia with funding not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/welfare-technologies-research-group_amica-is-one-of-current-projects-that-the-activity-7516064122355163136-LMp9",
+  "profile_url": "https://www.linkedin.com/company/welfare-technologies-research-group/",
+  "title": "AMICA Project: AI for Mindful Care and Aging in Estonia, ...",
+  "snippet": "We are currently in the process of recruiting PhD students for the project and look forward to welcoming them soon! ... medical AI and health technologies.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/welfare-technologies-research-group_amica-is-one-of-current-projects-that-the-activity-7516064122355163136-LMp9",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516201795849908224",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "Ilse Jonkers",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Computer Vision",
+   "Wearable Sensors",
+   "Biomechanics"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027 cohort",
+  "summary": "Recruiting PhD candidates for the 2027 cohort using technologies including computer vision and wearable sensors.",
+  "relevance": 25,
+  "relevance_reason": "Some CV/health overlap, but location and funding unclear and likely Europe.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ilse-jonkers-3094577_knowledgevalorisation-venturebuilding-activity-7516201795849908224-PALG",
+  "profile_url": "https://www.linkedin.com/in/ilse-jonkers-3094577/",
+  "title": "Ilse Jonkers' Post",
+  "snippet": "For the 2027 cohort, we are recruiting PhD candidates interested in ... Using cutting-edge #technologies including computer vision, wearable sensors ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ilse-jonkers-3094577_knowledgevalorisation-venturebuilding-activity-7516201795849908224-PALG",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516664427924963329",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-16",
+  "poster_name": "Alcohol & Drug Foundation",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "Deakin University",
+  "lab": "",
+  "country": "Australia",
+  "research_areas": [
+   "Digital Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD at Deakin University on alcohol in the digital environment, in a new lab.",
+  "relevance": 12,
+  "relevance_reason": "Australia and non-imaging topic.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/alcoholdrugfdn_fully-funded-phd-opportunity-alcohol-in-activity-7516664427924963329-PlsD",
+  "profile_url": "https://www.linkedin.com/company/alcoholdrugfdn/",
+  "title": "Deakin University PhD Opportunity: Alcohol in the Digital ...",
+  "snippet": "Because this is a new lab, the trainee will also help shape workflows, establish protocols, and build a productive research environment from the ground up.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/alcoholdrugfdn_fully-funded-phd-opportunity-alcohol-in-activity-7516664427924963329-PlsD",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7515945735939604480",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "OwlIndex",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "University of Nottingham",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Machine Learning",
+   "Brain Imaging",
+   "Causal Networks",
+   "X-ray Tomography",
+   "Soft Matter"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Aggregator post on ML PhD positions, mentioning a new lab involving brain imaging, causal networks and molecular data.",
+  "relevance": 30,
+  "relevance_reason": "Some imaging/ML relevance but vague, with unknown location and funding.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/owlindex_machinelearning-phdpositions-academicjobs-activity-7515945735939604480-Spo8",
+  "profile_url": "https://www.linkedin.com/company/owlindex/",
+  "title": "Machine Learning PhD Positions Open at Top Universities ...",
+  "snippet": "... involving brain imaging, causal networks and molecular data. Read more about his research journey and vision for his new lab: https://lnkd.in/g4y2qWNM ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/owlindex_machinelearning-phdpositions-academicjobs-activity-7515945735939604480-Spo8",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/owlindex_phdpositions-researchopportunities-universityofnottingham-activity-7516327026010509312-gumm",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516502889041768448",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-15",
+  "poster_name": "Scholarship Opportunities Pakistan",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "Australian National University",
+  "lab": "",
+  "country": "Australia",
+  "research_areas": [
+   "Computing",
+   "Cybersecurity"
+  ],
+  "degrees": [
+   "PhD",
+   "Master's"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Aggregator post on fully funded ANU research scholarships 2027 for PhD or research Master's in Australia, with a Canada PhD title in computing and cybersecurity.",
+  "relevance": 12,
+  "relevance_reason": "Mostly Australia, cybersecurity focus, little relation to medical imaging.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_phdposition-phdincanada-cybersecurity-activity-7516502889041768448-prxn",
+  "profile_url": "https://www.linkedin.com/company/scholarship-opportunities-pakistan/",
+  "title": "Canada PhD Opportunity in Computing, Cybersecurity ...",
+  "snippet": "ANU RESEARCH SCHOLARSHIPS 2027 | FULLY FUNDED PhD Planning a PhD or Research Master's in Australia?",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_phdposition-phdincanada-cybersecurity-activity-7516502889041768448-prxn",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516373320104042496",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-15",
+  "poster_name": "Bloom Pakistan Digital",
+  "poster_type": "organization",
+  "role": "MSc scholarship",
+  "university": "University of British Columbia",
+  "lab": "",
+  "country": "Canada",
+  "research_areas": [
+   "Zoology"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "UBC MSc in Zoology scholarship with annual stipend minimum CAD 30,000. Posted by a scholarship aggregator.",
+  "relevance": 25,
+  "relevance_reason": "Canada, Master's and funded, but zoology is unrelated to medical imaging AI.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/bloompakistandigital_zoologyscholarships-studyincanada-fullyfundedscholarship-activity-7516373320104042496-G_Nd",
+  "profile_url": "https://www.linkedin.com/company/bloompakistandigital/",
+  "title": "UBC Offers CAD 30000 MSc in Zoology Scholarship to ...",
+  "snippet": "... Canada Degree MSc in Zoology Annual Stipend Minimum CAD 30,000 Median ... Planning a fully funded Master's or PhD in the UK? The Higher Education ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/bloompakistandigital_zoologyscholarships-studyincanada-fullyfundedscholarship-activity-7516373320104042496-G_Nd",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7517967561913733121",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Ning Lu",
+  "poster_type": "person",
+  "role": "PhD student recruitment",
+  "university": "Case Western Reserve University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Post says the lab has PhD openings. Case Western BME is recruiting graduate students at the BMES 2026 meeting in Orlando (Booth 1300).",
+  "relevance": 45,
+  "relevance_reason": "USA PhD recruitment in a BME department, but the research topic and funding are unclear.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/luning613141_my-lab-has-openings-for-phd-students-starting-activity-7517967561913733121-yFY8",
+  "profile_url": "https://www.linkedin.com/in/luning613141/",
+  "title": "Ning Lu's Post",
+  "snippet": "Case Western Reserve BME is in Orlando for the 2026 BMES Annual Meeting. Stop by Booth 1300 to meet our faculty and graduate students and pick up our recruiting ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/luning613141_my-lab-has-openings-for-phd-students-starting-activity-7517967561913733121-yFY8",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516016430559973376",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "Jelena Rnjak-Kovacina",
+  "poster_type": "person",
+  "role": "PhD position",
+  "university": "UNSW Sydney",
+  "lab": "",
+  "country": "Australia",
+  "research_areas": [
+   "Biomaterials",
+   "Heart Valves"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD opportunity in engineering biomimetic materials for long-lasting heart valves.",
+  "relevance": 10,
+  "relevance_reason": "Biomaterials topic and non-target country (Australia), so it is a poor fit.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/rnjak-kovacina_biomimetic-materials-for-heart-valves-activity-7516016430559973376-Fepj",
+  "profile_url": "https://www.linkedin.com/in/rnjak-kovacina/",
+  "title": "Biomimetic Materials for Heart Valves | Jelena Rnjak- ...",
+  "snippet": "PhD Opportunity: Engineering Biomimetic Materials for Long-Lasting Heart Valve We are recruiting ... biomedical engineering, medical science, biomaterials ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/rnjak-kovacina_biomimetic-materials-for-heart-valves-activity-7516016430559973376-Fepj",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516433994201055235",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-15",
+  "poster_name": "Aida Nonn",
+  "poster_type": "person",
+  "role": "Research Associate with PhD opportunity (STENTIQ)",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Computational Biomechanics"
+  ],
+  "degrees": [
+   "PhD",
+   "RA"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting a Research Associate with a PhD opportunity on the STENTIQ project in computational biomechanics.",
+  "relevance": 15,
+  "relevance_reason": "Biomechanics rather than imaging AI, with unknown country and funding.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/aida-nonn-5739a53a_phdopportunity-computationalbiomechanics-activity-7516433994201055235-F-Kc",
+  "profile_url": "https://www.linkedin.com/in/aida-nonn-5739a53a/",
+  "title": "Aida Nonn",
+  "snippet": "... biomedical engineering, applied mechanics or a related field ... recruiting a Research Associate with a PhD opportunity to contribute to STENTIQ.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/aida-nonn-5739a53a_phdopportunity-computationalbiomechanics-activity-7516433994201055235-F-Kc",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516137632439922688",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "Pegah Khosravi",
+  "poster_type": "person",
+  "role": "PhD students / research assistants",
+  "university": "College of Staten Island, CUNY",
+  "lab": "AI MIND Lab",
+  "country": "USA",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Agentic AI",
+   "Breast Imaging",
+   "Cardiac MRI"
+  ],
+  "degrees": [
+   "PhD",
+   "RA"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "AI MIND Lab is recruiting PhD students or research assistants. Work covers agentic AI and longitudinal learning, with applications in kidney disease, breast imaging and cardiac MRI.",
+  "relevance": 75,
+  "relevance_reason": "Medical imaging AI in a PhD/RA opening in the USA; funding and timing are not stated.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/pegah-khosravi-20a18732_ai-mind-lab-activity-7516137632439922688-JPSe",
+  "profile_url": "https://www.linkedin.com/in/pegah-khosravi-20a18732/",
+  "title": "Pegah Khosravi's Post - AI MIND Lab",
+  "snippet": ", agentic AI, and longitudinal learning, with applications in kidney disease, breast imaging, cardiac MRI ... PhD students or research assistants. The next ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/pegah-khosravi-20a18732_ai-mind-lab-activity-7516137632439922688-JPSe",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516899090190737408",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-16",
+  "poster_name": "Sofia Fields Editorial Services",
+  "poster_type": "organization",
+  "role": "Funded PhD",
+  "university": "University of Southampton",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Machine Learning",
+   "Healthcare AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Funded PhD on using machine learning to predict multiple sclerosis progression, at the University of Southampton.",
+  "relevance": 25,
+  "relevance_reason": "Healthcare ML and funded PhD, but in the UK, which is outside the target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/sofia-fields-editorial-services_phd-artificialintelligence-machinelearning-activity-7516899090190737408-h_fN",
+  "profile_url": "https://www.linkedin.com/company/sofia-fields-editorial-services/",
+  "title": "Sofia Fields Editorial Services' Post",
+  "snippet": "Funded PhD Opportunity in AI and Healthcare | University of Southampton, UK Can machine learning predict multiple sclerosis progression while also ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/sofia-fields-editorial-services_phd-artificialintelligence-machinelearning-activity-7516899090190737408-h_fN",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516102425427152896",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-14",
+  "poster_name": "Provictoire Research Organisation",
+  "poster_type": "organization",
+  "role": "PhD position",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Neural Probes",
+   "3D Nanoelectrodes"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Mentions a PhD position on 3D nanoelectrode-engineered flexible epicortical brain probes.",
+  "relevance": 10,
+  "relevance_reason": "Hardware and neuroscience focus, with unknown country and funding.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/provictoire-research-organisation_neuroscience-3dprintingtechnology-researchinnovation-activity-7516102425427152896-xB2D",
+  "profile_url": "https://www.linkedin.com/company/provictoire-research-organisation/",
+  "title": "Turning Research Limitations into Innovation Opportunities",
+  "snippet": "... X-ray blazed gratings. Recently at #MNE2026, we also had the great ... PhD Position | 3D Nanoelectrode-Engineered Flexible Epicortical Brain Probes ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/provictoire-research-organisation_neuroscience-3dprintingtechnology-researchinnovation-activity-7516102425427152896-xB2D",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7517970006089994240",
+  "first_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-20T20:09:40+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Xiaowei Xu",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "Germany",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Medical Image Segmentation",
+   "3D Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Announces PhD positions (100%, expected TV-L E13) on medical image segmentation, classification, and disease assessment, including 3D medical imaging.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match and PhD funded, but TV-L E13 indicates Germany, outside the USA/Canada targets, capping the score.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/xiaowei-xu-48060b375_xiaowei-xu-activity-7517970006089994240-MM-D",
+  "profile_url": "https://www.linkedin.com/in/xiaowei-xu-48060b375/",
+  "title": "Xiaowei Xu's Post",
+  "snippet": "... PhD positions (100%, expected TV-L E13 ... Research Topics Medical image segmentation, classification, and disease assessment 3D medical imaging ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/xiaowei-xu-48060b375_xiaowei-xu-activity-7517970006089994240-MM-D",
+    "source": "linkedin"
+   }
+  ]
+ }
+]

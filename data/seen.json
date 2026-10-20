@@ -186,5 +186,141 @@
  "url:https://explore.jobs.ufl.edu/en-us/Listing": {
   "d": "2026-10-20",
   "s": "filtered"
+ },
+ "li:7516540193450090496": {
+  "d": "2026-10-20",
+  "s": "filtered"
+ },
+ "li:7516323615332712448": {
+  "d": "2026-10-20",
+  "s": "filtered"
+ },
+ "li:7516285141678202880": {
+  "d": "2026-10-20",
+  "s": "filtered"
+ },
+ "li:7517218938779287552": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7515910871076728832": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Personal post about a PhD path; no clear lab or topic, appears to be a program/visit announcement without identifiable f"
+ },
+ "li:7516060357463949312": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "General commentary on clinician-scientist decline; not a specific opening."
+ },
+ "li:7516271346381639680": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516064122355163136": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:6703405463100239872": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Postdoc/research associate hiring only, and a 2020 post."
+ },
+ "li:7517385747474317312": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Postdoctoral fellow recruitment only."
+ },
+ "li:7516201795849908224": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516664427924963329": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7515945735939604480": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516983072215629824": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "General commentary on science diplomacy and AI funding."
+ },
+ "li:7516502889041768448": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516373320104042496": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7517967561913733121": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7517939061483786241": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Tenure-track faculty position, not a student opening."
+ },
+ "li:7516016430559973376": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516433994201055235": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516137632439922688": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516899090190737408": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516327026010509312": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516112144011243520": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Post about a most-cited article; the PhD mention is an old, unrelated link."
+ },
+ "li:7516102425427152896": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "url:https://www.pace.edu/news/applied-ai": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "General news article about applied AI."
+ },
+ "url:https://www.bme.uh.edu/research/seminars/202610/measuring-what-matters-medical-imaging-journey-across-labs-clinics": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Seminar announcement, not a recruitment post."
+ },
+ "url:https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-biomedical-engineering": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Generic program description page; no specific opening, funding, or deadline stated."
+ },
+ "li:7517970006089994240": {
+  "d": "2026-10-20",
+  "s": "accepted"
+ },
+ "li:7516522198895882240": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Award news (Packard Fellowship) and not a recruitment post."
+ },
+ "url:https://www.cs.toronto.edu/dcs/unit1/W2027-TA-CSC2431HS.pdf": {
+  "d": "2026-10-20",
+  "s": "rejected",
+  "why": "Course teaching assistant posting for existing UofT graduate students, not a graduate admission/recruitment opening."
  }
 }
