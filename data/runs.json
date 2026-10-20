@@ -1,1 +1,14 @@
-[]
+[
+ {
+  "at": "2026-10-20T19:41:04+00:00",
+  "collected": 76,
+  "new_candidates": 25,
+  "filtered_out": 47,
+  "already_seen": 4,
+  "claude_errors": 1,
+  "pending": 25,
+  "errors": [
+   "claude error: Failed to authenticate. API Error: 401 Invalid bearer token"
+  ]
+ }
+]
