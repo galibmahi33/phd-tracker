@@ -322,5 +322,127 @@
   "d": "2026-10-20",
   "s": "rejected",
   "why": "Course teaching assistant posting for existing UofT graduate students, not a graduate admission/recruitment opening."
+ },
+ "li:7516203488507285505": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516426646900342784": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516424120935485440": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7518124549482131456": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516171245634220032": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7517136174306512896": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516452781394853890": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516379226607058945": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516573482189688833": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516128827820044288": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516497455102795776": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516331033256951808": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7518440277984899072": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516111132357701633": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "url:https://explore.jobs.ufl.edu/en-us/filter": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "url:https://hst.mit.edu/news-events/twihst/volume-28-number-5": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "url:https://almanac.upenn.edu/": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "url:https://ics.uci.edu/": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "url:https://www.pct.edu/events/2026/10/06/fall-2026-career-fair": {
+  "d": "2026-10-21",
+  "s": "filtered"
+ },
+ "li:7516707000215363585": {
+  "d": "2026-10-21",
+  "s": "accepted"
+ },
+ "li:7516381402221916168": {
+  "d": "2026-10-21",
+  "s": "rejected",
+  "why": "General meeting news from UNNC (China); PhD mention is incidental and not in a target country."
+ },
+ "li:7516506922087260160": {
+  "d": "2026-10-21",
+  "s": "rejected",
+  "why": "Aggregator listing of UK-oriented professors/positions, not a specific actionable opening in USA/Canada."
+ },
+ "li:7517981826456383489": {
+  "d": "2026-10-21",
+  "s": "accepted"
+ },
+ "li:7518006484824137728": {
+  "d": "2026-10-21",
+  "s": "accepted"
+ },
+ "li:7516279271666073600": {
+  "d": "2026-10-21",
+  "s": "rejected",
+  "why": "Molecular and cellular biology PhD and HHMI postdoc fellowships; wet-lab, not relevant and mainly postdoc news."
+ },
+ "li:7516573826999177216": {
+  "d": "2026-10-21",
+  "s": "rejected",
+  "why": "Postdoc aggregator listing mainly European postdoc positions; no specific USA/Canada graduate opening."
+ },
+ "url:https://www.glassdoor.ca/Job/switzerland-clinical-scientist-jobs-SRCH_IL.0,11_IN226_KO12,30.htm": {
+  "d": "2026-10-21",
+  "s": "rejected",
+  "why": "Job board search listing for Switzerland, not a specific opening in a target country."
+ },
+ "url:https://computationalhealth.berkeley.edu/2026-recruitment-page": {
+  "d": "2026-10-21",
+  "s": "accepted"
+ },
+ "url:https://careers.tufts.edu/jobs/johnson-johnson-r-103411-statistics-decision-sciences-summer-interns-2027-open": {
+  "d": "2026-10-21",
+  "s": "rejected",
+  "why": "Industry summer internship, not a graduate admission opportunity."
  }
 }

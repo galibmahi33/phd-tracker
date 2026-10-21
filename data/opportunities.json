@@ -1,5 +1,122 @@
 [
  {
+  "id": "li:7517981826456383489",
+  "first_seen": "2026-10-21T01:46:47+00:00",
+  "last_seen": "2026-10-21T01:46:47+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "David Brundage, PhD",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Radiology AI",
+   "Medical Image Analysis",
+   "Clinical NLP"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Recruitment flyer for a Fall 2027 start covering radiology, language models reading clinical records, and One Health disease topics. Funding and institution not stated in the snippet.",
+  "relevance": 60,
+  "relevance_reason": "Radiology AI and Fall 2027 PhD fit well, but country and funding are unclear.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/david-brundage-phd-79a08084_recruitment-flyer-activity-7517981826456383489-C42d",
+  "profile_url": "https://www.linkedin.com/in/david-brundage-phd-79a08084/",
+  "title": "Recruitment Flyer | David Brundage, PhD",
+  "snippet": "... Fall 2027 start Know someone who'd be a great fit? Please share this with ... radiology, language models that read clinical records, and One Health disease ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/david-brundage-phd-79a08084_recruitment-flyer-activity-7517981826456383489-C42d",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518006484824137728",
+  "first_seen": "2026-10-21T01:46:47+00:00",
+  "last_seen": "2026-10-21T01:46:47+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "UF Biomedical Engineering",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "University of Florida",
+  "lab": "Biomedical Engineering",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "UF Biomedical Engineering announces PhD application fee waivers available for Fall 2027.",
+  "relevance": 50,
+  "relevance_reason": "USA BME PhD for Fall 2027 matches, but it is a general program post with no stated funding or deadline.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/uf-biomedical-engineering_interested-in-pursuing-a-phd-in-biomedical-activity-7518006484824137728-OXn2",
+  "profile_url": "https://www.linkedin.com/company/uf-biomedical-engineering/",
+  "title": "UF Biomedical Engineering's Post",
+  "snippet": "University of Florida biomedical engineering Ph.D. application fee waivers available for fall 2027. View C2PA information. 15 1 Comment · Like Comment. Share.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/uf-biomedical-engineering_interested-in-pursuing-a-phd-in-biomedical-activity-7518006484824137728-OXn2",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "url:https://computationalhealth.berkeley.edu/2026-recruitment-page",
+  "first_seen": "2026-10-21T01:46:47+00:00",
+  "last_seen": "2026-10-21T01:46:47+00:00",
+  "post_date": "",
+  "poster_name": "Computational Precision Health, UC Berkeley",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "UC Berkeley / UCSF",
+  "lab": "Computational Precision Health",
+  "country": "USA",
+  "research_areas": [
+   "Machine Learning",
+   "Health AI",
+   "Computational Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Lists CPH faculty recruiting PhD students for the 2027-2028 application cycle. Applicants should review faculty methods and health areas.",
+  "relevance": 65,
+  "relevance_reason": "USA PhD program in ML for health for the right cycle; funding and deadline not stated and it is a program-level page.",
+  "inferred_fields": [
+   "university"
+  ],
+  "source": "web",
+  "post_url": "https://computationalhealth.berkeley.edu/2026-recruitment-page/",
+  "profile_url": "",
+  "title": "2026 Recruitment Page - Computational Precision Health",
+  "snippet": "2027-2028 CPH Faculty Recruiting for CPH PhD Students Thank you for your interest in the 2027-2028 PhD Application Cycle! Please review the list below to see which CPH Faculty members are recruiting PhD students for this year. For more information on our admissions process, please check out our Admissions page. Faculty Member Methods Area Health […]",
+  "links": [
+   {
+    "url": "https://computationalhealth.berkeley.edu/2026-recruitment-page/",
+    "source": "web"
+   }
+  ]
+ },
+ {
   "id": "li:7517218938779287552",
   "first_seen": "2026-10-20T20:09:40+00:00",
   "last_seen": "2026-10-20T20:09:40+00:00",
@@ -192,7 +309,7 @@
  {
   "id": "li:7515945735939604480",
   "first_seen": "2026-10-20T20:09:40+00:00",
-  "last_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-21T01:46:47+00:00",
   "post_date": "2026-10-14",
   "poster_name": "OwlIndex",
   "poster_type": "organization",
@@ -213,9 +330,9 @@
   "funding": "Fully funded",
   "deadline": "",
   "deadline_text": "",
-  "start_term": "",
+  "start_term": "Fall 2027",
   "summary": "Aggregator post on ML PhD positions, mentioning a new lab involving brain imaging, causal networks and molecular data.",
-  "relevance": 30,
+  "relevance": 55,
   "relevance_reason": "Some imaging/ML relevance but vague, with unknown location and funding.",
   "inferred_fields": [],
   "source": "linkedin",
@@ -230,6 +347,10 @@
    },
    {
     "url": "https://www.linkedin.com/posts/owlindex_phdpositions-researchopportunities-universityofnottingham-activity-7516327026010509312-gumm",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/owlindex_artificialintelligence-postdocpositions-machinelearningresearch-activity-7516707000215363585-TIwi",
     "source": "linkedin"
    }
   ]
