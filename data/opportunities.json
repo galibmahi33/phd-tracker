@@ -1,5 +1,163 @@
 [
  {
+  "id": "li:7518520703856308224",
+  "first_seen": "2026-10-22T01:40:26+00:00",
+  "last_seen": "2026-10-22T01:40:26+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Arshad Rauf, PhD",
+  "poster_type": "person",
+  "role": "PhD Position",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Multimodal Learning",
+   "Medical Image Analysis",
+   "Disease Progression"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD position on modelling disease progression from multimodal health data (imaging, wearables, clinical). Location and deadline not stated in snippet.",
+  "relevance": 55,
+  "relevance_reason": "Strong topic match (multimodal imaging plus clinical data) and fully funded PhD, but country and timing are unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/arshad-rauf-phd-a2844367_%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%8F%F0%9D%90%A1%F0%9D%90%83-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AD-activity-7518520703856308224-69VF",
+  "profile_url": "https://www.linkedin.com/in/arshad-rauf-phd-a2844367/",
+  "title": "Arshad Rauf, PhD's Post",
+  "snippet": "fully funded PhD Position ... You will work on modelling disease progression from multimodal health data (imaging, wearables, clinical ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/arshad-rauf-phd-a2844367_%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%8F%F0%9D%90%A1%F0%9D%90%83-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AD-activity-7518520703856308224-69VF",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518656135843848192",
+  "first_seen": "2026-10-22T01:40:26+00:00",
+  "last_seen": "2026-10-22T01:40:26+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Roya Khanzadeh",
+  "poster_type": "person",
+  "role": "PhD Position: AI-Enabled 5G Sensing for Human Physical Function and Activity",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Biomedical Signal Processing",
+   "Wireless Sensing",
+   "Multimodal Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position on AI-enabled 5G sensing for human physical function and activity, including multimodal early assessment of bone-related diseases.",
+  "relevance": 40,
+  "relevance_reason": "Moderate fit (AI and signal processing in health) with a PhD, but country, funding and timing are unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/roya-khanzadeh-6180b654_can-the-5g-network-around-us-become-a-sensor-activity-7518656135843848192-ldVW",
+  "profile_url": "https://www.linkedin.com/in/roya-khanzadeh-6180b654/",
+  "title": "Roya Khanzadeh's Post",
+  "snippet": "... PhD Position: AI-Enabled 5G Sensing for Human Physical Function and Activity ... multimodal early assessment of bone-related diseases Validate the ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/roya-khanzadeh-6180b654_can-the-5g-network-around-us-become-a-sensor-activity-7518656135843848192-ldVW",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518393184247259136",
+  "first_seen": "2026-10-22T01:40:26+00:00",
+  "last_seen": "2026-10-22T01:40:26+00:00",
+  "post_date": "2026-10-20",
+  "poster_name": "Chris Connaboy",
+  "poster_type": "person",
+  "role": "PhD student (two positions)",
+  "university": "Old Dominion University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering",
+   "Biomechanics",
+   "Rehabilitation",
+   "Data Science"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "August 2027",
+  "summary": "Recruiting two fully funded PhD students at Old Dominion University starting August 2027. Focus on biomechanics, biomedical engineering, rehabilitation and data.",
+  "relevance": 50,
+  "relevance_reason": "USA, fully funded PhD, Fall 2027 timing fit, but biomechanics focus is only a partial topic match.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/connaboy_phdopportunities-fundedphd-biomechanics-activity-7518393184247259136-k5mG",
+  "profile_url": "https://www.linkedin.com/in/connaboy/",
+  "title": "Chris Connaboy's Post",
+  "snippet": "Two Fully Funded PhD Studentships | Old Dominion University | August 2027 I'm recruiting two PhD students ... biomedical engineering, rehabilitation, data ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/connaboy_phdopportunities-fundedphd-biomechanics-activity-7518393184247259136-k5mG",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516936652024406016",
+  "first_seen": "2026-10-22T01:40:26+00:00",
+  "last_seen": "2026-10-22T01:40:26+00:00",
+  "post_date": "2026-10-16",
+  "poster_name": "",
+  "poster_type": "unknown",
+  "role": "PhD student",
+  "university": "North ...",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Chemistry",
+   "Spectroscopy"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "A research group at a university beginning with 'North' is recruiting PhD students. The snippet mentions spectroscopy methods in teaching labs.",
+  "relevance": 8,
+  "relevance_reason": "Chemistry and spectroscopy work is a weak topic fit, and funding, country and timing are unclear.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/geteducated-com_science-bachelor-degrees-activity-7516936652024406016-37sj",
+  "profile_url": "https://www.linkedin.com/in/geteducated-com/",
+  "title": "Compare Affordable Online Science Bachelor's Degrees ...",
+  "snippet": "I am recruiting PhD students to join our research group at North ... X-ray diffraction, Raman, FTIR, EPR and more) into teaching labs, and trains ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/geteducated-com_science-bachelor-degrees-activity-7516936652024406016-37sj",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7517981826456383489",
   "first_seen": "2026-10-21T01:46:47+00:00",
   "last_seen": "2026-10-21T01:46:47+00:00",
