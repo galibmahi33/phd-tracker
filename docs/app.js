@@ -154,7 +154,7 @@ function card(r) {
 
 function renderHeader() {
   const last = runs[runs.length - 1];
-  $("updated").textContent = last ? `Updated ${ago(last.at)} · runs daily at 05:30 Bangladesh time` : "Waiting for the first update";
+  $("updated").textContent = last ? `Updated ${ago(last.at)} · updates every morning (Bangladesh time)` : "Waiting for the first update";
   const open = data.filter((r) => statuses[r.id] !== "hidden");
   const fresh = open.filter(isNew).length;
   const soon = open.filter((r) => { const d = daysLeft(r.deadline); return d !== null && d >= 0 && d <= 30; }).length;

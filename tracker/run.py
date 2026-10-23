@@ -128,13 +128,21 @@ def main() -> None:
     store.save(data_dir / "pending.json", pending)
     store.save(data_dir / "runs.json", runs[-RUNS_KEPT:])
 
-    # 5. Notify
-    hits = [r for r in new_records if r["relevance"] >= settings["notify_min_relevance"]]
+    # 5. Notify: one daily summary, every run
+    threshold = settings["notify_min_relevance"]
+    problems = []
+    if stats["claude_errors"]:
+        problems.append("Claude step failed (expired token or usage limit). "
+                        f"{len(pending)} posts are saved and will be retried tomorrow.")
+    search_failures = sum(e.startswith("serper error") for e in errors)
+    if any(e.startswith("SERPER_API_KEY") for e in errors) or search_failures > len(queries) // 3:
+        problems.append("Search failed (check the Serper key or credits).")
     topic = os.environ.get("NTFY_TOPIC", "").strip()
-    if hits and topic and not args.no_notify:
-        notify.send(topic, hits, settings["dashboard_url"], log)
+    if topic and not args.no_notify:
+        notify.send_daily(topic, new_records, threshold, problems, settings["dashboard_url"], log)
 
-    print(json.dumps({**stats, "pending": len(pending), "strong_new": len(hits)}, indent=1))
+    strong = sum(r["relevance"] >= threshold for r in new_records)
+    print(json.dumps({**stats, "pending": len(pending), "strong_new": strong}, indent=1))
 
 
 if __name__ == "__main__":

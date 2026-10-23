@@ -2,7 +2,7 @@ name: Update opportunities
 
 on:
   schedule:
-    - cron: "30 23 * * *"   # 05:30 Bangladesh time (UTC+6)
+    - cron: "17 23 * * *"   # 05:17 Bangladesh time (UTC+6); GitHub often starts scheduled runs late
   workflow_dispatch:
 
 permissions:
