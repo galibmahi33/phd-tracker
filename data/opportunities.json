@@ -1,5 +1,436 @@
 [
  {
+  "id": "li:7518914069299445760",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "ELLIS for Europe",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Machine Learning",
+   "Medical Image Analysis"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Two PhD positions in structure-aware machine learning, including medical image analysis. Location not stated, likely Europe.",
+  "relevance": 30,
+  "relevance_reason": "Topic matches medical image analysis but the location appears to be Europe (not a target country) and funding and timing are unstated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ellisforeurope_two-phd-positions-in-structure-aware-machine-activity-7518914069299445760-50F3",
+  "profile_url": "https://www.linkedin.com/company/ellisforeurope/",
+  "title": "Two PhD Positions in Structure-Aware Machine Learning",
+  "snippet": "Job alert: 2 PhD Researchers in Machine Learning & Medical Image Analysis at ... Two PhD Positions ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ellisforeurope_two-phd-positions-in-structure-aware-machine-activity-7518914069299445760-50F3",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518611572282343425",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Computer Vision Center",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "Computer Vision Center",
+  "lab": "",
+  "country": "Spain",
+  "research_areas": [
+   "Computer Vision",
+   "Continual Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "CVC advertises three PhD positions, including a private continual learning track.",
+  "relevance": 25,
+  "relevance_reason": "Computer vision PhD but in Spain (non-target country), with funding and timing unstated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/computer-vision-center_joboffer-cvc-phdpositions-activity-7518611572282343425-f0vi",
+  "profile_url": "https://www.linkedin.com/company/computer-vision-center/",
+  "title": "Computer Vision Center's Post",
+  "snippet": "The three PhD positions ... The private continual learning track stood out to me given my work on transformers for medical imaging, where adapting models without ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/computer-vision-center_joboffer-cvc-phdpositions-activity-7518611572282343425-f0vi",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518937153658257408",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Jefersson dos Santos",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Computer Vision",
+   "Explainable AI",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD on physics-informed symbolic distillation, covering AI, computer vision and explainable ML with medical imaging.",
+  "relevance": 45,
+  "relevance_reason": "Fully funded PhD with a medical imaging and CV match, but the country is unknown (the poster is likely UK-based) and timing is unstated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/jefersson_physics-informed-symbolic-distillation-for-activity-7518937153658257408-kp0N",
+  "profile_url": "https://www.linkedin.com/in/jefersson/",
+  "title": "Jefersson dos Santos' Post",
+  "snippet": "Interested in AI, Computer Vision, and Explainable Machine Learning? An exciting, fully funded PhD ... medical imaging What makes this opportunity ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/jefersson_physics-informed-symbolic-distillation-for-activity-7518937153658257408-kp0N",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518912045845692416",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Ts. Dr. Chai Tong Yuen",
+  "poster_type": "person",
+  "role": "Master's",
+  "university": "UTAR",
+  "lab": "",
+  "country": "Malaysia",
+  "research_areas": [
+   "Medical Imaging",
+   "Image Processing",
+   "AI"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded Master's in AI at UTAR, Malaysia, with medical imaging and image processing topics.",
+  "relevance": 33,
+  "relevance_reason": "Good topic and funded Master's, but Malaysia is outside the target countries, which caps the score.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/chaitongyuen_master-ai-hiring-activity-7518912045845692416-ozr6",
+  "profile_url": "https://www.linkedin.com/in/chaitongyuen/",
+  "title": "Ts. Dr. Chai Tong Yuen's Post",
+  "snippet": "Fully Funded Master's Opportunity in AI at UTAR, Malaysia! I am happy to ... Medical Imaging and Image Processing, making it suitable for candidates ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/chaitongyuen_master-ai-hiring-activity-7518912045845692416-ozr6",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518654386458427392",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Andreas Busch",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Geothermal",
+   "Geochemistry"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded IAPETUS PhD on soft acid stimulation of tight geothermal reservoirs.",
+  "relevance": 8,
+  "relevance_reason": "Geoscience topic unrelated to the applicant's work, and the position is in the UK.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/andreas-busch-7834151a_geothermal-phd-geoenergy-activity-7518654386458427392-Pyh4",
+  "profile_url": "https://www.linkedin.com/in/andreas-busch-7834151a/",
+  "title": "Andreas Busch - Unlocking tight geothermal reservoirs",
+  "snippet": "... fully funded IAPETUS PhD tests soft stimulation instead: dilute acid ... CT, effluent geochemistry and PHREEQC Near-wellbore modelling: from measured ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/andreas-busch-7834151a_geothermal-phd-geoenergy-activity-7518654386458427392-Pyh4",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518393801246228480",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-20",
+  "poster_name": "Shimelis Getachew Tola",
+  "poster_type": "person",
+  "role": "Postdoc and PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Multimodal Learning",
+   "Vision-Language-Action"
+  ],
+  "degrees": [
+   "PhD",
+   "Postdoc"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Post about postdoc and PhD positions in multimodal world models and vision-language-action. Few details are given.",
+  "relevance": 15,
+  "relevance_reason": "Weak topic fit (not medical), with unknown country and funding.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/shimelis-getachew-tola-ab3393115_postdoc-and-phd-positions-activity-7518393801246228480-1RBA",
+  "profile_url": "https://www.linkedin.com/in/shimelis-getachew-tola-ab3393115/",
+  "title": "Shimelis Getachew Tola - postdoc and PhD Positions",
+  "snippet": "The multimodal world models and vision-language-action directions are closest to my own research, I work on multimodal deep learning across vision and language ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/shimelis-getachew-tola-ab3393115_postdoc-and-phd-positions-activity-7518393801246228480-1RBA",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518696660906983424",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Sofia Fields Editorial Services",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "King's College London",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Generative AI",
+   "Machine Learning",
+   "NLP"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "King's College London is recruiting a PhD researcher in generative AI, requiring a background in ML, deep learning and NLP.",
+  "relevance": 12,
+  "relevance_reason": "The work is NLP and generative AI without imaging, and it is in the UK.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/sofia-fields-editorial-services_phd-generativeai-machinelearning-activity-7518696660906983424-xPZq",
+  "profile_url": "https://www.linkedin.com/company/sofia-fields-editorial-services/",
+  "title": "Sofia Fields Editorial Services' Post",
+  "snippet": "King's College London is recruiting a PhD researcher to develop next ... Candidates with a strong background in machine learning, deep learning, natural language ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/sofia-fields-editorial-services_phd-generativeai-machinelearning-activity-7518696660906983424-xPZq",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518060395882897408",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Ohio University",
+  "poster_type": "organization",
+  "role": "PhD / MS Graduate Research Assistant",
+  "university": "Ohio University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Hardware Accelerators",
+   "Reliable AI"
+  ],
+  "degrees": [
+   "PhD",
+   "Master's"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Ohio University EECS is recruiting PhD and MS graduate research assistants for reliable and secure AI/ML hardware accelerators.",
+  "relevance": 30,
+  "relevance_reason": "USA with PhD/MS assistantship, but the topic is hardware-focused with no medical imaging, and timing is unstated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/positionhire_aiml-for-reliable-and-secure-hardware-accelerators-activity-7518060395882897408-5s8R",
+  "profile_url": "https://www.linkedin.com/company/positionhire/",
+  "title": "Ohio University PhD Research Assistantship in Reliable ...",
+  "snippet": "Ohio University's School of Electrical Engineering and Computer Science is recruiting prospective #PhD and M.S. students for a Graduate Research Assistant ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/positionhire_aiml-for-reliable-and-secure-hardware-accelerators-activity-7518060395882897408-5s8R",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7517836940671434753",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Oportunidades Académicas y Tech",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "KTH Royal Institute of Technology",
+  "lab": "",
+  "country": "Sweden",
+  "research_areas": [
+   "Various"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Nine new doctoral positions at KTH, with a 3.5-year fully funded position advertised.",
+  "relevance": 15,
+  "relevance_reason": "Sweden is outside the target countries and the topics are unspecified.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/camihurs-tech_we-are-pleased-to-advertise-a-35-year-fully-activity-7517836940671434753-9kIs",
+  "profile_url": "https://www.linkedin.com/company/camihurs-tech/",
+  "title": "Oportunidades Académicas y Tech's Post",
+  "snippet": "PhDScanner. 82,510 followers. 2w Edited. Report this post; Close menu. 9 New PhD Openings at KTH Royal Institute of Technology Nine new doctoral positions ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/camihurs-tech_we-are-pleased-to-advertise-a-35-year-fully-activity-7517836940671434753-9kIs",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518687768273756160",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Rebekah Honce",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Vermont",
+  "lab": "Honce Lab",
+  "country": "USA",
+  "research_areas": [
+   "Animal Biosciences"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "New lab at UVM College of Agriculture and Life Sciences is recruiting a PhD student.",
+  "relevance": 15,
+  "relevance_reason": "USA PhD, but animal biosciences is a wet-lab field far from the applicant's work, and funding is unstated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/rrhonce_animal-biosciences-university-of-vermont-activity-7518687768273756160-jPtT",
+  "profile_url": "https://www.linkedin.com/in/rrhonce/",
+  "title": "Animal Biosciences | University of Vermont | Rebekah Honce",
+  "snippet": "Seeking a PhD Student! I am recruiting a PhD student to join our new lab at the University of Vermont College of Agriculture and Life Sciences.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/rrhonce_animal-biosciences-university-of-vermont-activity-7518687768273756160-jPtT",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7516867168945352705",
+  "first_seen": "2026-10-23T01:42:49+00:00",
+  "last_seen": "2026-10-23T01:42:49+00:00",
+  "post_date": "2026-10-16",
+  "poster_name": "Adam Feinberg",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Carnegie Mellon University",
+  "lab": "Feinberg Lab",
+  "country": "USA",
+  "research_areas": [
+   "Biofabrication",
+   "Tissue Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting PhD students in tissue and organ biofabrication at CMU BME, who will be at BMES 2026.",
+  "relevance": 20,
+  "relevance_reason": "USA BME PhD, but biofabrication is wet-lab work with no AI or imaging, and funding is unstated.",
+  "inferred_fields": [
+   "university",
+   "lab",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/adam-feinberg_bmes2026-activity-7516867168945352705-YQOj",
+  "profile_url": "https://www.linkedin.com/in/adam-feinberg/",
+  "title": "Adam Feinberg - bmes2026",
+  "snippet": "We're recruiting PhD students to work in tissue and organ biofabrication, so ... Carnegie Mellon University's BME team will be at the Biomedical Engineering ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/adam-feinberg_bmes2026-activity-7516867168945352705-YQOj",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7518520703856308224",
   "first_seen": "2026-10-22T01:40:26+00:00",
   "last_seen": "2026-10-22T01:40:26+00:00",
