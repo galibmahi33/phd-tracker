@@ -70,5 +70,17 @@
   "rejected": 1,
   "pending": 0,
   "errors": []
+ },
+ {
+  "at": "2026-10-24T01:39:21+00:00",
+  "collected": 79,
+  "already_seen": 58,
+  "filtered_out": 14,
+  "new_candidates": 7,
+  "sent_to_claude": 7,
+  "accepted": 3,
+  "rejected": 4,
+  "pending": 0,
+  "errors": []
  }
 ]

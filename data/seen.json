@@ -702,5 +702,93 @@
   "d": "2026-10-23",
   "s": "rejected",
   "why": "General news about Canadian international student numbers, not a specific opening or admissions announcement."
+ },
+ "li:7518061922307444736": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7518634910241304576": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7517216889589116928": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7517542276483694592": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7519103227020173313": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7517773808733196288": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7517064413728706560": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7518985782896930817": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7519287880360390657": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7517830844674289664": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7519400870221045760": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "url:https://www.atsu.edu/kirksville-college-of-osteopathic-medicine/academics/doctor-of-osteopathic-medicine-program": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "url:https://careers.wexnermedical.osu.edu/search/jobdetails/assistant-professor---hematology-faculty/6e652663-8589-4296-b51e-f1dba85da73f": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "url:https://math.dartmouth.edu/news-resources/news": {
+  "d": "2026-10-24",
+  "s": "filtered"
+ },
+ "li:7518716259140517890": {
+  "d": "2026-10-24",
+  "s": "accepted"
+ },
+ "li:7517357380481863680": {
+  "d": "2026-10-24",
+  "s": "accepted"
+ },
+ "li:7519135362502262784": {
+  "d": "2026-10-24",
+  "s": "accepted"
+ },
+ "li:7518789521627529217": {
+  "d": "2026-10-24",
+  "s": "rejected",
+  "why": "Domestic-only PhD in Australia on heart valve biomaterials; outside target countries and off-topic."
+ },
+ "li:7517998577260969984": {
+  "d": "2026-10-24",
+  "s": "rejected",
+  "why": "Chemistry research post; the PhD studentship mention is a stray snippet, likely in the UK/Europe and off-topic."
+ },
+ "url:https://northbridge.edu/sites/default/files/2026-09/Northbridge-PR-Catalog-English-20260930.pdf": {
+  "d": "2026-10-24",
+  "s": "rejected",
+  "why": "University catalog PDF, not a recruitment announcement."
+ },
+ "url:https://www.iwu.edu/accreditation/assurance-argument-10052026-full.pdf": {
+  "d": "2026-10-24",
+  "s": "rejected",
+  "why": "Accreditation document, not a recruitment announcement."
  }
 }

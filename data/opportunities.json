@@ -1,5 +1,117 @@
 [
  {
+  "id": "li:7518716259140517890",
+  "first_seen": "2026-10-24T01:39:21+00:00",
+  "last_seen": "2026-10-24T01:39:21+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Emily Miller",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "UC Berkeley",
+  "lab": "New lab, Department of Mechanical Engineering",
+  "country": "USA",
+  "research_areas": [
+   "Mechanical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Hiring 1-2 PhD students for a new lab in Mechanical Engineering at UC Berkeley, starting in 2027.",
+  "relevance": 38,
+  "relevance_reason": "PhD in the USA for a new lab starting 2027, but mechanical engineering topic is a weak match and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/emily-y-miller_admissions-berkeley-graduate-division-activity-7518716259140517890-_cIA",
+  "profile_url": "https://www.linkedin.com/in/emily-y-miller/",
+  "title": "Emily Miller's Post - Berkeley Graduate Division",
+  "snippet": "I'm hiring 1-2 PhD students to join my new lab in the Department of Mechanical Engineering at UC Berkeley, starting in 2027! If you want to pursue a PhD at ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/emily-y-miller_admissions-berkeley-graduate-division-activity-7518716259140517890-_cIA",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7517357380481863680",
+  "first_seen": "2026-10-24T01:39:21+00:00",
+  "last_seen": "2026-10-24T01:39:21+00:00",
+  "post_date": "2026-10-17",
+  "poster_name": "Career Opportunities for Black Researchers in STEM Fields",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "University of Michigan",
+  "lab": "Gillespie's new lab, School for Environment and Sustainability",
+  "country": "USA",
+  "research_areas": [
+   "Environmental Science"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "A new lab at the University of Michigan SEAS is recruiting a PhD student for Fall 2027.",
+  "relevance": 35,
+  "relevance_reason": "PhD in the USA for Fall 2027, but environmental topic is a poor match and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/marie-therese-atsena-abogo-ph-d-a6662a56_black-faculty-position-faculty-of-science-activity-7517357380481863680-Gwuq",
+  "profile_url": "https://www.linkedin.com/company/marie-therese-atsena-abogo-ph-d-a6662a56/",
+  "title": "Career Opportunities for Black Researchers in STEM Fields",
+  "snippet": "Gillespie's new lab at the University of Michigan- School for Environment and Sustainability (SEAS) is recruiting a #PhD student for Fall 2027. The research ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/marie-therese-atsena-abogo-ph-d-a6662a56_black-faculty-position-faculty-of-science-activity-7517357380481863680-Gwuq",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519135362502262784",
+  "first_seen": "2026-10-24T01:39:21+00:00",
+  "last_seen": "2026-10-24T01:39:21+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Emma Caringella",
+  "poster_type": "person",
+  "role": "Graduate research assistant (MS or PhD)",
+  "university": "University of Utah",
+  "lab": "Sayu Lab for Biomechanics & Locomotion",
+  "country": "USA",
+  "research_areas": [
+   "Biomechanics"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Sayu Lab at the University of Utah seeks a graduate research assistant (MS or PhD) in biomechanics and locomotion.",
+  "relevance": 47,
+  "relevance_reason": "MS/PhD RA in the USA at a biomedical engineering-type lab, but biomechanics only loosely matches imaging AI and funding and timing are unclear.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/emmacaringella_the-sayu-lab-is-hiring-graduate-research-activity-7519135362502262784-w1uM",
+  "profile_url": "https://www.linkedin.com/in/emmacaringella/",
+  "title": "Emma Caringella's Post",
+  "snippet": "Sayu Lab for Biomechanics & Locomotion, at the University of Utah, is seeking highly motivated candidates for a graduate research assistant position (MS or PhD) ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/emmacaringella_the-sayu-lab-is-hiring-graduate-research-activity-7519135362502262784-w1uM",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7518914069299445760",
   "first_seen": "2026-10-23T01:42:49+00:00",
   "last_seen": "2026-10-23T01:42:49+00:00",
