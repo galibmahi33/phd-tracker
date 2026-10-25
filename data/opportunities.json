@@ -1,5 +1,163 @@
 [
  {
+  "id": "li:7517985139285508098",
+  "first_seen": "2026-10-25T01:14:51+00:00",
+  "last_seen": "2026-10-25T01:14:51+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "",
+  "poster_type": "unknown",
+  "role": "PhD student",
+  "university": "UT MD Anderson Cancer Center",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Digital Twins",
+   "Cancer Care",
+   "Medical AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "A PhD position funded for digital twins in cancer care at UT MD Anderson. The post gives advice on structuring the application CV.",
+  "relevance": 58,
+  "relevance_reason": "US PhD in medical AI with funding mentioned, but topic (digital twins) is only partly aligned and deadline/term unclear.",
+  "inferred_fields": [
+   "country",
+   "university"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/activity-7517985139285508098-a8SG",
+  "profile_url": "",
+  "title": "UT MD Anderson Funds Digital Twins for Cancer Care",
+  "snippet": "How to structure your CV for this PhD position: I encourage applicants to put your education and research projects (not \"experience\", which has little weight), ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/activity-7517985139285508098-a8SG",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519419296779837440",
+  "first_seen": "2026-10-25T01:14:51+00:00",
+  "last_seen": "2026-10-25T01:14:51+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "Shanxin Yuan",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Generative AI",
+   "3D Computer Vision",
+   "Computational Biology"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting a PhD student for an interdisciplinary project on generative AI, 3D computer vision and computational biology.",
+  "relevance": 30,
+  "relevance_reason": "PhD with computer vision, but location, funding and timing are unknown and the topic is not medical imaging.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/shanxin-yuan-4859b656_development-and-application-of-a-generative-activity-7519419296779837440-V1b0",
+  "profile_url": "https://www.linkedin.com/in/shanxin-yuan-4859b656/",
+  "title": "Shanxin Yuan's Post",
+  "snippet": "We are recruiting a PhD student for an exciting interdisciplinary project at the intersection of Generative AI, 3D Computer Vision, and Computational Biology.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/shanxin-yuan-4859b656_development-and-application-of-a-generative-activity-7519419296779837440-V1b0",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7517608504724025344",
+  "first_seen": "2026-10-25T01:14:51+00:00",
+  "last_seen": "2026-10-25T01:14:51+00:00",
+  "post_date": "2026-10-18",
+  "poster_name": "Scholarship Opportunities Pakistan",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "University of Georgia",
+  "lab": "Social Developmental Health lab",
+  "country": "USA",
+  "research_areas": [
+   "Psychology",
+   "Developmental Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "A new psychology lab at the University of Georgia is looking for graduate students.",
+  "relevance": 12,
+  "relevance_reason": "US PhD, but psychology is unrelated to medical imaging and funding is unstated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_psychologyphd-phdscholarships-socialpsychology-activity-7517608504724025344-_A33",
+  "profile_url": "https://www.linkedin.com/company/scholarship-opportunities-pakistan/",
+  "title": "University of Georgia PhD in Social Developmental Health ...",
+  "snippet": "PSYCHOLOGY PHD ASPIRANTS — THIS NEW LAB IS LOOKING FOR GRADUATE STUDENTS! If your ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_psychologyphd-phdscholarships-socialpsychology-activity-7517608504724025344-_A33",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518690006710992896",
+  "first_seen": "2026-10-25T01:14:51+00:00",
+  "last_seen": "2026-10-25T01:14:51+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Buddini Karawdeniya",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "BME labs",
+  "country": "",
+  "research_areas": [
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Autumn 2027",
+  "summary": "Post promotes BME labs recruiting PhD students for autumn 2027 and open faculty searches, tied to the BMES conference.",
+  "relevance": 45,
+  "relevance_reason": "BME PhD recruiting for autumn 2027 matches the intake, but the country, funding and specific topics are unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/buddini-karawdeniya-ph-d-366a579b_looking-forward-to-bmes-conference-this-week-activity-7518690006710992896-alCO",
+  "profile_url": "https://www.linkedin.com/in/buddini-karawdeniya-ph-d-366a579b/",
+  "title": "Buddini Karawdeniya, Ph.D.'s Post",
+  "snippet": "... BME ... Learn about our labs that are recruiting PhD students for autumn 2027 and our open faculty searches!",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/buddini-karawdeniya-ph-d-366a579b_looking-forward-to-bmes-conference-this-week-activity-7518690006710992896-alCO",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7518716259140517890",
   "first_seen": "2026-10-24T01:39:21+00:00",
   "last_seen": "2026-10-24T01:39:21+00:00",
