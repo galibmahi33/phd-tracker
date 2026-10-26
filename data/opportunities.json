@@ -1,5 +1,238 @@
 [
  {
+  "id": "li:7517884266710552576",
+  "first_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-10-26T01:16:07+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Health - Aarhus University",
+  "poster_type": "organization",
+  "role": "PhD scholarships",
+  "university": "Aarhus University",
+  "lab": "",
+  "country": "Denmark",
+  "research_areas": [
+   "Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Aarhus University Health announces fully funded PhD scholarships for 11 researchers. Snippet is mixed with unrelated content.",
+  "relevance": 25,
+  "relevance_reason": "Fully funded PhD but in Denmark (non-target country) and no clear imaging topic.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/healthau_the-link-between-oral-health-and-diabetes-activity-7517884266710552576-xLL1",
+  "profile_url": "https://www.linkedin.com/company/healthau/",
+  "title": "Health - Aarhus University's Post",
+  "snippet": "Fully funded PhD scholarships to 11 talented researchers • 24 pages 24 pages ... Noon, recommend the heart screening package which includes the CT CACS, Stress ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/healthau_the-link-between-oral-health-and-diabetes-activity-7517884266710552576-xLL1",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7517955269415329796",
+  "first_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-10-26T01:16:07+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Yoseph Samodra",
+  "poster_type": "person",
+  "role": "PhD student (DPhil studentship)",
+  "university": "University of Oxford",
+  "lab": "Neurocircuitry & Cognition Lab",
+  "country": "UK",
+  "research_areas": [
+   "Computational Neuroscience"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Oxford DPhil studentship in computational neuroscience; recruiting PhD students for the Neurocircuitry & Cognition Lab.",
+  "relevance": 15,
+  "relevance_reason": "Neuroscience topic, UK location caps fit; funding vague.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/yosephsamodra_university-of-oxford-dphil-studentship-in-activity-7517955269415329796-oT4a",
+  "profile_url": "https://www.linkedin.com/in/yosephsamodra/",
+  "title": "Oxford DPhil Studentship in Computational Neuroscience",
+  "snippet": "We're #hiring a Research Fellow - Deep Learning Theory & AI Safety. The ... I'm recruiting PhD students to join the Neurocircuitry & Cognition Lab at ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/yosephsamodra_university-of-oxford-dphil-studentship-in-activity-7517955269415329796-oT4a",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519696693332914177",
+  "first_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-10-26T01:16:07+00:00",
+  "post_date": "2026-10-24",
+  "poster_name": "Björn Vahsen",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Aberdeen",
+  "lab": "New lab of Björn Vahsen",
+  "country": "UK",
+  "research_areas": [
+   "Neuroimmunology",
+   "TDP-43 proteinopathy"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD opportunity in a new lab at Aberdeen investigating TDP-43 proteinopathy and neuro-immune responses (EASTBIO).",
+  "relevance": 5,
+  "relevance_reason": "Wet-lab biology in the UK; poor topic and country fit.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/bj%C3%B6rn-vahsen-b782b118a_eastbio-dissecting-neuro-immune-responses-activity-7519696693332914177--kul",
+  "profile_url": "https://www.linkedin.com/in/björn-vahsen-b782b118a/",
+  "title": "Björn Vahsen's Post",
+  "snippet": "I'm excited to share a PhD opportunity in my new lab at the University of Aberdeen! This exciting project will investigate how TDP-43 proteinopathy ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/bj%C3%B6rn-vahsen-b782b118a_eastbio-dissecting-neuro-immune-responses-activity-7519696693332914177--kul",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518521495984435200",
+  "first_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-10-26T01:16:07+00:00",
+  "post_date": "2026-10-21",
+  "poster_name": "Khalid Malik",
+  "poster_type": "person",
+  "role": "Student researcher (undergraduate, master's, PhD)",
+  "university": "University of Michigan-Flint",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Multimodal AI",
+   "Healthcare",
+   "Cybersecurity"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Post invites undergraduate, master's, and PhD students to work on multimodal AI for cybersecurity and healthcare. Funding and terms not stated.",
+  "relevance": 50,
+  "relevance_reason": "Multimodal AI with healthcare in the USA and PhD/Master's welcome, but funding, timing and imaging focus are unclear.",
+  "inferred_fields": [
+   "university"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/khalid-malik-8495195_look-to-michigan-activity-7518521495984435200-Hbdr",
+  "profile_url": "https://www.linkedin.com/in/khalid-malik-8495195/",
+  "title": "Look to Michigan | Khalid Malik",
+  "snippet": "... multimodal AI to take on urgent challenges in cybersecurity and healthcare. ... Who Should Apply Undergraduate, master's, and PhD students who are curious, ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/khalid-malik-8495195_look-to-michigan-activity-7518521495984435200-Hbdr",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518060894862512128",
+  "first_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-10-26T01:16:07+00:00",
+  "post_date": "2026-10-19",
+  "poster_name": "Position Hire",
+  "poster_type": "organization",
+  "role": "Graduate Research Assistant (PhD/MS)",
+  "university": "",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Food Rheology",
+   "Soft Matter",
+   "Data-driven methods"
+  ],
+  "degrees": [
+   "PhD",
+   "Master's"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Fully funded MS/PhD research assistantships in food rheology, gels and soft matter with data-driven approaches, starting Fall 2027.",
+  "relevance": 30,
+  "relevance_reason": "Fully funded, right intake and degree, but food science is a weak topic fit.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/positionhire_fully-funded-msphd-positions-in-food-rheology-activity-7518060894862512128-hHAh",
+  "profile_url": "https://www.linkedin.com/company/positionhire/",
+  "title": "Food Science PhD and MS Research Assistantships at ...",
+  "snippet": "... Fall 2027. This Graduate Research Assistant position will focus on food rheology, food gels, soft matter systems, and data-driven approaches to food ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/positionhire_fully-funded-msphd-positions-in-food-rheology-activity-7518060894862512128-hHAh",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519367141624709121",
+  "first_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-10-26T01:16:07+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "Case Western Reserve University Department of Biomedical Engineering",
+  "poster_type": "organization",
+  "role": "PhD program recruitment",
+  "university": "Case Western Reserve University",
+  "lab": "Department of Biomedical Engineering",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "CWRU BME is recruiting for its PhD program at BMES 2026 Booth 1300.",
+  "relevance": 45,
+  "relevance_reason": "US BME PhD recruitment is a good fit, but it is a department-level post with no stated funding or deadline.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/case-western-reserve-university-department-of-biomedical-engineering_bmes2026-biomedicalengineering-gradschool-activity-7519367141624709121-VW6P",
+  "profile_url": "https://www.linkedin.com/company/case-western-reserve-university-department-of-biomedical-engineering/",
+  "title": "Case Western Reserve University Department of ...",
+  "snippet": "... ). Interested in a PhD in biomedical engineering? Check out our recruiting opportunities at Booth 1300. #BiomedicalEngineering #GradSchool.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/case-western-reserve-university-department-of-biomedical-engineering_bmes2026-biomedicalengineering-gradschool-activity-7519367141624709121-VW6P",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7517985139285508098",
   "first_seen": "2026-10-25T01:14:51+00:00",
   "last_seen": "2026-10-25T01:14:51+00:00",
