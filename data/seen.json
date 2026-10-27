@@ -1000,5 +1000,126 @@
  "li:7519367141624709121": {
   "d": "2026-10-26",
   "s": "accepted"
+ },
+ "li:7520111090660298752": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518161324405612544": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518717953320665088": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518563088481329152": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518494810635165696": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518272454297939968": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518359847562711040": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7519472581922521088": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7520461998736769024": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518354060647796737": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518643881077370880": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518147800132530176": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518650889906274305": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518229089670004737": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518889935026921473": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7519060120035713024": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518648237898121216": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518232760541696000": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518988109053677568": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518292654007382016": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518532831749402624": {
+  "d": "2026-10-27",
+  "s": "filtered"
+ },
+ "li:7518208722066784256": {
+  "d": "2026-10-27",
+  "s": "rejected",
+  "why": "Conference post; the PhD mention is a vague unrelated snippet (theoretical AI) with no details."
+ },
+ "li:7519070790504353792": {
+  "d": "2026-10-27",
+  "s": "accepted"
+ },
+ "li:7520083012345233408": {
+  "d": "2026-10-27",
+  "s": "rejected",
+  "why": "Postdoctoral position in Oxford, UK; not a graduate student opening."
+ },
+ "li:7519482554702430208": {
+  "d": "2026-10-27",
+  "s": "accepted"
+ },
+ "li:7518949974039232512": {
+  "d": "2026-10-27",
+  "s": "accepted"
+ },
+ "li:7518224345090093056": {
+  "d": "2026-10-27",
+  "s": "rejected",
+  "why": "Publication certificate post, not a recruitment opening."
+ },
+ "li:7520541411285331968": {
+  "d": "2026-10-27",
+  "s": "rejected",
+  "why": "Unclear recruitment (likely faculty/staff) at UBC for global health engineers; no graduate student opening stated."
+ },
+ "li:7518257128046919681": {
+  "d": "2026-10-27",
+  "s": "rejected",
+  "why": "Lab students presenting at a research event; not a recruitment post."
  }
 }

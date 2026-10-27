@@ -1,5 +1,122 @@
 [
  {
+  "id": "li:7519070790504353792",
+  "first_seen": "2026-10-27T02:08:12+00:00",
+  "last_seen": "2026-10-27T02:08:12+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Kota Takahashi",
+  "poster_type": "person",
+  "role": "Graduate research assistant (MS or PhD)",
+  "university": "",
+  "lab": "Sayu Lab",
+  "country": "",
+  "research_areas": [
+   "Biomechanics",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Sayu Lab is hiring a graduate research assistant (MS or PhD) for Fall 2027 in biomechanics/biomedical engineering.",
+  "relevance": 45,
+  "relevance_reason": "Fall 2027 MS/PhD RA matches degree, funding and intake, but biomechanics is only a weak topic fit and country is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/kota-takahashi-4bb60480_our-lab-is-hiring-sayu-lab-for-biomechanics-activity-7519070790504353792-sssF",
+  "profile_url": "https://www.linkedin.com/in/kota-takahashi-4bb60480/",
+  "title": "Kota Takahashi's Post",
+  "snippet": "... graduate research assistant position (MS or PhD) for Fall 2027. This ... Biomedical Engineering. https://lnkd.in/g9cpcpWa https://lnkd.in/gxbCDR5Y ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/kota-takahashi-4bb60480_our-lab-is-hiring-sayu-lab-for-biomechanics-activity-7519070790504353792-sssF",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519482554702430208",
+  "first_seen": "2026-10-27T02:08:12+00:00",
+  "last_seen": "2026-10-27T02:08:12+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "iOrgan Bio",
+  "poster_type": "organization",
+  "role": "PhD position in T cell engineering for multiple myeloma",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Cell Therapy",
+   "T Cell Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "A PhD position in T cell engineering for multiple myeloma treatment is listed. Location and funding are not stated.",
+  "relevance": 10,
+  "relevance_reason": "Wet-lab cell therapy PhD, unrelated to medical imaging; country and funding unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/iorganbio_celltherapy-ipsc-scrnaseq-activity-7519482554702430208-1INd",
+  "profile_url": "https://www.linkedin.com/company/iorganbio/",
+  "title": "Transcriptional state may be key to cell therapy potency",
+  "snippet": "... PhD Position in T Cell Engineering for Treatment of Multiple Myeloma (m ... foundation models to design RNA-based medicines and accelerate drug discovery.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/iorganbio_celltherapy-ipsc-scrnaseq-activity-7519482554702430208-1INd",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518949974039232512",
+  "first_seen": "2026-10-27T02:08:12+00:00",
+  "last_seen": "2026-10-27T02:08:12+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Cardiovascular Research Institute Maastricht (CARIM)",
+  "poster_type": "organization",
+  "role": "PhD studentship (non-clinical cardiovascular research)",
+  "university": "Maastricht University",
+  "lab": "CARIM",
+  "country": "Netherlands",
+  "research_areas": [
+   "Cardiovascular Research"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027 intake",
+  "summary": "CARIM promotes a 2027 intake doctoral programme supported by the British Heart Foundation with competitive funding for non-clinical cardiovascular projects.",
+  "relevance": 15,
+  "relevance_reason": "PhD funded for 2027, but in Europe (outside target countries) and not imaging-focused.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/carimschool_%F0%9D%90%95%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%A2-%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A3%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%A5-activity-7518949974039232512-iSTL",
+  "profile_url": "https://www.linkedin.com/company/carimschool/",
+  "title": "Cardiovascular Research Institute Maastricht (CARIM)'s Post",
+  "snippet": "... 2027 intake. Supported by the British Heart Foundation, the programme provides competitive funding for non-clinical doctoral research projects focused on ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/carimschool_%F0%9D%90%95%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%A2-%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A3%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%A5-activity-7518949974039232512-iSTL",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7517884266710552576",
   "first_seen": "2026-10-26T01:16:07+00:00",
   "last_seen": "2026-10-26T01:16:07+00:00",
