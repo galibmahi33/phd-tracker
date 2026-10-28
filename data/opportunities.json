@@ -1,5 +1,82 @@
 [
  {
+  "id": "li:7520288130953023488",
+  "first_seen": "2026-10-28T02:21:40+00:00",
+  "last_seen": "2026-10-28T02:21:40+00:00",
+  "post_date": "2026-10-26",
+  "poster_name": "ML Scientist",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "University of Zurich",
+  "lab": "",
+  "country": "Switzerland",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Medical Imaging AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "2026-10-28",
+  "deadline_text": "Deadline: 28 Oct 2026",
+  "start_term": "",
+  "summary": "University of Zurich offers a PhD position in Medical Imaging AI. Deadline is 28 Oct 2026.",
+  "relevance": 33,
+  "relevance_reason": "Strong topic match and PhD, but Switzerland is outside target countries, funding not stated, and the deadline is today.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ml-scientist_mlscientist-phd-postdoc-activity-7520288130953023488-IAXW",
+  "profile_url": "https://www.linkedin.com/in/ml-scientist/",
+  "title": "ML Scientist's Post",
+  "snippet": "PhD in Medical Imaging AI Country: Switzerland Deadline: 28 Oct 2026 The University of Zurich (UZH) is offering a PhD position in Medical Imaging AI ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ml-scientist_mlscientist-phd-postdoc-activity-7520288130953023488-IAXW",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7520817756364206081",
+  "first_seen": "2026-10-28T02:21:40+00:00",
+  "last_seen": "2026-10-28T02:21:40+00:00",
+  "post_date": "2026-10-27",
+  "poster_name": "Anthony Gatti, PhD",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Michigan",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Multimodal Learning",
+   "AI in Medicine"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Recruiting PhD students in University of Michigan Biomedical Engineering for Fall 2027. Interested in applying AI to multimodal data including medical imaging.",
+  "relevance": 85,
+  "relevance_reason": "Excellent match on multimodal medical imaging AI, PhD, USA, Fall 2027; funding not explicitly stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/anthony-gatti-phd-72b13b2b_graduate-admissions-biomedical-engineering-activity-7520817756364206081-1LyM",
+  "profile_url": "https://www.linkedin.com/in/anthony-gatti-phd-72b13b2b/",
+  "title": "Anthony Gatti, PhD's Post - Biomedical Engineering (BME)",
+  "snippet": "I'm recruiting PhD students @ University of Michigan Biomedical Engineering Fall 2027 If you're interested in applying AI to multimodal data (medical imaging ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/anthony-gatti-phd-72b13b2b_graduate-admissions-biomedical-engineering-activity-7520817756364206081-1LyM",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7519070790504353792",
   "first_seen": "2026-10-27T02:08:12+00:00",
   "last_seen": "2026-10-27T02:08:12+00:00",
