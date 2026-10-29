@@ -130,5 +130,18 @@
   "rejected": 4,
   "pending": 0,
   "errors": []
+ },
+ {
+  "at": "2026-10-29T02:29:23+00:00",
+  "collected": 95,
+  "already_seen": 65,
+  "new_candidates": 16,
+  "filtered_out": 14,
+  "sent_to_claude": 16,
+  "accepted": 6,
+  "merged": 1,
+  "rejected": 9,
+  "pending": 0,
+  "errors": []
  }
 ]

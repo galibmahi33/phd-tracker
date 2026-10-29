@@ -1,5 +1,238 @@
 [
  {
+  "id": "li:7519414504464769024",
+  "first_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "Gradehood",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "University of Queensland",
+  "lab": "",
+  "country": "Australia",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Multimodal Learning",
+   "Foundation Models"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Aggregator post listing an AI PhD opportunity in Alzheimer's disease research at University of Queensland, involving medical imaging and clinical data. Also lists other PhD positions in Germany.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match but position is in Australia, capping the score, and funding and timing are not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/gradehood_gradehood-phdopportunity-universityofqueensland-activity-7519414504464769024-C8rC",
+  "profile_url": "https://www.linkedin.com/company/gradehood/",
+  "title": "AI PhD Opportunity in Alzheimer's Disease Research ...",
+  "snippet": "... Medical imaging & video • Clinical/tabular data • Vision-language models ... PhD Positions – Germany 8️⃣ DECODES MSCA Doctoral Network – 15 PhD ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/gradehood_gradehood-phdopportunity-universityofqueensland-activity-7519414504464769024-C8rC",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521148536713936896",
+  "first_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
+  "post_date": "2026-10-28",
+  "poster_name": "Claire Higgins",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Image Analysis"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Promotes a fully funded PhD programme and research projects, including medical imaging. Location and deadline are not given in the snippet.",
+  "relevance": 42,
+  "relevance_reason": "Medical imaging and fully funded PhD match, but country, deadline and timing are unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/claire-higgins-4ba66a40_phd-programmes-research-projects-studentships-activity-7521148536713936896-OzpR",
+  "profile_url": "https://www.linkedin.com/in/claire-higgins-4ba66a40/",
+  "title": "Claire Higgins' Post",
+  "snippet": "Are you enthusiastic about science and have thought about about pursuing a PhD? Well now is the time! We have a fully funded PhD ... medical imaging ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/claire-higgins-4ba66a40_phd-programmes-research-projects-studentships-activity-7521148536713936896-OzpR",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519443899556229120",
+  "first_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "Robin Shail",
+  "poster_type": "person",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Geoscience"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD on structural inheritance and geothermal energy with a supervisory team. Mentions CT images only in a geoscience context.",
+  "relevance": 12,
+  "relevance_reason": "Geoscience topic is off-field and the position appears to be in the UK, so the fit is low.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/robin-shail-6a08044_here-is-another-super-phd-with-an-autumn-activity-7519443899556229120-GE0S",
+  "profile_url": "https://www.linkedin.com/in/robin-shail-6a08044/",
+  "title": "PhD in Structural Inheritance and Geothermal Energy",
+  "snippet": "And a wonderful supervisory team . Michelle Harris. 6d. Exciting fully funded ... CT images while preserving mineralogical and topological features for ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/robin-shail-6a08044_here-is-another-super-phd-with-an-autumn-activity-7519443899556229120-GE0S",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7518931903987621888",
+  "first_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Euroscience Jobs",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "Leiden University",
+  "lab": "",
+  "country": "Netherlands",
+  "research_areas": [
+   "Multimodal Learning",
+   "Machine Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Leiden University invites applications for a PhD position involving multimodal modeling approaches. The snippet is mixed with a microbiology postdoc listing.",
+  "relevance": 22,
+  "relevance_reason": "Located in the Netherlands (capped), with only a loose multimodal ML match and unclear funding.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/eurosciencejobs_postdoctoral-research-scientist-data-science-activity-7518931903987621888-g-Ek",
+  "profile_url": "https://www.linkedin.com/company/eurosciencejobs/",
+  "title": "Postdoctoral Research Scientist in Microbiology at ...",
+  "snippet": "Summary Leiden University invites applications for a PhD position ... multimodal modeling approaches. Key findings: Regularized Bayesian models ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/eurosciencejobs_postdoctoral-research-scientist-data-science-activity-7518931903987621888-g-Ek",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521022531630399488",
+  "first_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
+  "post_date": "2026-10-28",
+  "poster_name": "Jörn Diedrichsen",
+  "poster_type": "person",
+  "role": "PhD / MSc",
+  "university": "Western University",
+  "lab": "Superlab",
+  "country": "Canada",
+  "research_areas": [
+   "Computational Neuroscience",
+   "Machine Learning"
+  ],
+  "degrees": [
+   "PhD",
+   "Master's"
+  ],
+  "funding": "Not stated",
+  "deadline": "2026-12-05",
+  "deadline_text": "Fall 2027. Deadline December 5th.",
+  "start_term": "Fall 2027",
+  "summary": "PhD and MSc positions at the Superlab in London, Ontario for Fall 2027. Application deadline is December 5th.",
+  "relevance": 50,
+  "relevance_reason": "Canada, PhD/MSc and Fall 2027 timing fit, but the motor-control neuroscience topic is only a partial match and funding is not stated.",
+  "inferred_fields": [
+   "university"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/j%C3%B6rn-diedrichsen-b523a616_phd-msc-positions-activity-7521022531630399488-zaEn",
+  "profile_url": "https://www.linkedin.com/in/jörn-diedrichsen-b523a616/",
+  "title": "Jörn Diedrichsen - PhD / MSc positions",
+  "snippet": "... Fall 2027. Deadline December 5th. Maybe London Ontario is only the second-best London in the world - but the Superlab is a pretty awesome place to get your ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/j%C3%B6rn-diedrichsen-b523a616_phd-msc-positions-activity-7521022531630399488-zaEn",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519024485048680448",
+  "first_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "Opportunity Sphere",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "University of Edinburgh",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Machine Learning",
+   "Trustworthy AI",
+   "Adaptive AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position at the University of Edinburgh in Machine Learning Systems, focused on foundations and methodologies for trustworthy and adaptive AI. Funding and deadline not stated in the snippet.",
+  "relevance": 30,
+  "relevance_reason": "Trustworthy/adaptive ML is somewhat relevant and it is a PhD, but it is in the UK (outside target countries) and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/opportunity-sphere01_httpslnkdinecttdpk-the-university-of-activity-7519024485048680448-zUPz",
+  "profile_url": "https://www.linkedin.com/company/opportunity-sphere01/",
+  "title": "University of Edinburgh PhD in Machine Learning Systems",
+  "snippet": "... PhD position focused on advancing the foundations and methodologies for trustworthy and adaptive AI. ... Explore related topics. Deep Learning Applications in MRI ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/opportunity-sphere01_httpslnkdinecttdpk-the-university-of-activity-7519024485048680448-zUPz",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7520288130953023488",
   "first_seen": "2026-10-28T02:21:40+00:00",
   "last_seen": "2026-10-28T02:21:40+00:00",
@@ -1405,7 +1638,7 @@
  {
   "id": "li:7517218938779287552",
   "first_seen": "2026-10-20T20:09:40+00:00",
-  "last_seen": "2026-10-20T20:09:40+00:00",
+  "last_seen": "2026-10-29T02:29:23+00:00",
   "post_date": "2026-10-17",
   "poster_name": "PhDScanner",
   "poster_type": "organization",
@@ -1416,7 +1649,9 @@
   "research_areas": [
    "Medical Image Analysis",
    "Machine Learning",
-   "Biomedical Signal Processing"
+   "Biomedical Signal Processing",
+   "Radiology AI",
+   "Trustworthy AI"
   ],
   "degrees": [
    "PhD"
@@ -1437,6 +1672,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/phdscanner_phd-in-machine-learning-in-medicine-activity-7517218938779287552-w0pk",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/phdscanner_doctoral-student-in-equitable-ai-for-breast-activity-7521132607980609536-a66H",
     "source": "linkedin"
    }
   ]
