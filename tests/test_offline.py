@@ -86,13 +86,13 @@ def check_notify():
     notify.requests.post = lambda url, data, headers, timeout: sent.append(headers) or FakeResponse()
     rec = {"relevance": 70, "poster_name": "A", "university": "U", "country": "USA", "degrees": ["PhD"], "funding": "Fully funded"}
     weak = {**rec, "relevance": 40}
-    notify.send_daily("t", [rec, weak], 60, [], "https://x", print)
-    notify.send_daily("t", [weak], 60, [], "https://x", print)
-    notify.send_daily("t", [], 60, [], "https://x", print)
-    notify.send_daily("t", [], 60, ["Claude step failed"], "https://x", print)
+    notify.send_summary("t", [rec, weak], 60, [], "https://x", print)
+    notify.send_summary("t", [weak], 60, [], "https://x", print)
+    notify.send_summary("t", [], 60, [], "https://x", print)
+    notify.send_summary("t", [], 60, ["Claude step failed"], "https://x", print)
     assert [h["Priority"] for h in sent] == ["high", "default", "low", "high"]
-    assert sent[0]["Title"].startswith("1 strong match today")
-    assert sent[2]["Title"] == "No new openings today"
+    assert sent[0]["Title"].startswith("1 strong match this week")
+    assert sent[2]["Title"] == "No new openings this week"
     assert sent[3]["Title"].startswith("Tracker problem")
     assert all(h["Title"].isascii() for h in sent)
 

@@ -90,7 +90,7 @@ def main() -> None:
             cand["attempts"] = cand.get("attempts", 0) + 1
         try:
             results = extract.classify(batch, profile, settings, today)
-        except Exception as e:  # auth, usage limit, CLI failure: stop and retry tomorrow
+        except Exception as e:  # auth, usage limit, CLI failure: stop and retry next run
             log(f"claude error: {e}")
             stats["claude_errors"] += 1
             break
@@ -128,18 +128,18 @@ def main() -> None:
     store.save(data_dir / "pending.json", pending)
     store.save(data_dir / "runs.json", runs[-RUNS_KEPT:])
 
-    # 5. Notify: one daily summary, every run
+    # 5. Notify: one summary notification per run
     threshold = settings["notify_min_relevance"]
     problems = []
     if stats["claude_errors"]:
         problems.append("Claude step failed (expired token or usage limit). "
-                        f"{len(pending)} posts are saved and will be retried tomorrow.")
+                        f"{len(pending)} posts are saved and will be retried next Wednesday.")
     search_failures = sum(e.startswith("serper error") for e in errors)
     if any(e.startswith("SERPER_API_KEY") for e in errors) or search_failures > len(queries) // 3:
         problems.append("Search failed (check the Serper key or credits).")
     topic = os.environ.get("NTFY_TOPIC", "").strip()
     if topic and not args.no_notify:
-        notify.send_daily(topic, new_records, threshold, problems, settings["dashboard_url"], log)
+        notify.send_summary(topic, new_records, threshold, problems, settings["dashboard_url"], log)
 
     strong = sum(r["relevance"] >= threshold for r in new_records)
     print(json.dumps({**stats, "pending": len(pending), "strong_new": strong}, indent=1))

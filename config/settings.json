@@ -2,7 +2,7 @@
   "dashboard_url": "https://galibmahi33.github.io/phd-tracker/",
   "model": "sonnet",
   "batch_size": 12,
-  "max_candidates_per_run": 60,
+  "max_candidates_per_run": 80,
   "notify_min_relevance": 60,
   "target_countries": ["USA", "Canada"],
   "target_degrees": ["PhD", "Master's"],

@@ -1,13 +1,13 @@
 # PhD Opportunity Tracker
 
-A daily-updated dashboard of PhD and Master's recruitment posts in medical imaging, AI in medicine
+A weekly-updated dashboard of PhD and Master's recruitment posts in medical imaging, AI in medicine
 and related areas, ranked by fit with my research profile.
 
 **Dashboard:** https://galibmahi33.github.io/phd-tracker/
 
 ## How it works
 
-Every morning (scheduled for 05:17 Bangladesh time; GitHub may start it a little late), a GitHub Actions job (`.github/workflows/update.yml`):
+Every Wednesday morning (scheduled for 05:17 Bangladesh time; GitHub may start it a little late), a GitHub Actions job (`.github/workflows/update.yml`):
 
 1. **Collects** candidate posts. LinkedIn is never accessed directly. LinkedIn posts arrive only as
    Google search results (via the Serper API, `site:linkedin.com/posts` queries in
