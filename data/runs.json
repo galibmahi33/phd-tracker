@@ -155,5 +155,18 @@
   "errors": [
    "claude error: You've hit your weekly limit · resets 1pm (UTC)"
   ]
+ },
+ {
+  "at": "2026-11-04T03:02:00+00:00",
+  "collected": 130,
+  "already_seen": 63,
+  "new_candidates": 41,
+  "filtered_out": 26,
+  "sent_to_claude": 42,
+  "rejected": 25,
+  "accepted": 15,
+  "merged": 2,
+  "pending": 0,
+  "errors": []
  }
 ]

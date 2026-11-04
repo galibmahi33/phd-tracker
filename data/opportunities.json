@@ -1,8 +1,584 @@
 [
  {
+  "id": "li:7520696132323139584",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-27",
+  "poster_name": "laplaceexpert",
+  "poster_type": "unknown",
+  "role": "PhD positions (European AI/medical imaging list)",
+  "university": "",
+  "lab": "",
+  "country": "Europe",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Scientific Machine Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Post lists European AI PhD opportunities including medical imaging and scientific machine learning positions. Details are sparse.",
+  "relevance": 30,
+  "relevance_reason": "Medical imaging topic fits, but positions are in Europe, not the USA or Canada, and funding is unstated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/laplaceexpert_phdopportunities-artificialintelligence-machinelearning-activity-7520696132323139584-xCzG",
+  "profile_url": "https://www.linkedin.com/in/laplaceexpert/",
+  "title": "European AI PhD Opportunities in Medical Imaging ...",
+  "snippet": "PhD Position: Scientific Machine Learning for Scientific Foundation ... Medical Image Classification,\" is now live and publicly available! In this ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/laplaceexpert_phdopportunities-artificialintelligence-machinelearning-activity-7520696132323139584-xCzG",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7520271417439920128",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-25",
+  "poster_name": "Temitayo Fagbola",
+  "poster_type": "person",
+  "role": "Fully funded PhD and postdoc AI positions (list)",
+  "university": "",
+  "lab": "",
+  "country": "UK/Europe",
+  "research_areas": [
+   "Medical Imaging",
+   "Multimodal Learning",
+   "Vision-Language Models"
+  ],
+  "degrees": [
+   "PhD",
+   "Postdoc"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Roundup of fully funded PhD and postdoctoral AI positions, including Imperial College London and Marie Curie networks. Mentions medical imaging, clinical data and vision-language models.",
+  "relevance": 33,
+  "relevance_reason": "Good topic match and funded, but listed positions are mainly in the UK and Europe.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/temitayo-fagbola-sfhea-5941a2169_artificialintelligence-machinelearning-activity-7520271417439920128-4HiF",
+  "profile_url": "https://www.linkedin.com/in/temitayo-fagbola-sfhea-5941a2169/",
+  "title": "Fully Funded PhD and Postdoctoral AI Research ...",
+  "snippet": "... PhD positions in Frontier AI Imperial College London 6. CDTnet (Marie ... Medical imaging & video • Clinical/tabular data • Vision-language models • 3D ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/temitayo-fagbola-sfhea-5941a2169_artificialintelligence-machinelearning-activity-7520271417439920128-4HiF",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519292868201570305",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "Prof. Nikos Paragios",
+  "poster_type": "person",
+  "role": "PhD position",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Imaging",
+   "Radiotherapy",
+   "Generative AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Post mentions a PhD position on real-time patient-related radiotherapy work, bringing generative AI and medical imaging together. Location and funding are not given.",
+  "relevance": 35,
+  "relevance_reason": "Strong medical imaging topic, but location is unclear (likely Europe) and funding and timing are unstated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/prof-nikos-paragios-20777869_generativeai-medicalai-radiotherapy-activity-7519292868201570305-VvPb",
+  "profile_url": "https://www.linkedin.com/in/prof-nikos-paragios-20777869/",
+  "title": "Prof. Nikos Paragios' Post",
+  "snippet": "... medical imaging, and clinical optimization closer together. Congratulations ... PhD position dedicated to the development of a real-time patient ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/prof-nikos-paragios-20777869_generativeai-medicalai-radiotherapy-activity-7519292868201570305-VvPb",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521095187549458432",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-28",
+  "poster_name": "Shobha Ram",
+  "poster_type": "person",
+  "role": "Fully funded PhD studentship (Home fees students only)",
+  "university": "UCL",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Imaging",
+   "CT",
+   "X-ray",
+   "MRI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "EPSRC-funded PhD at UCL on locating embedded metallic fragments using CT, MRI and X-ray. Restricted to home fees students.",
+  "relevance": 25,
+  "relevance_reason": "Imaging topic fits, but it is in the UK and restricted to home-fee students, so the applicant is likely ineligible.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/shobha-ram-0483b332_50-fully-funded-4-year-epsrc-phd-studentships-activity-7521095187549458432-Wr97",
+  "profile_url": "https://www.linkedin.com/in/shobha-ram-0483b332/",
+  "title": "Shobha Ram's Post",
+  "snippet": "Fully Funded PhD Opportunity at UCL (Home Fees Students Only) We are ... CT, MRI, and X-ray for locating embedded metallic fragments such as ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/shobha-ram-0483b332_50-fully-funded-4-year-epsrc-phd-studentships-activity-7521095187549458432-Wr97",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521966589957521409",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-30",
+  "poster_name": "Sofia Fields Editorial Services",
+  "poster_type": "organization",
+  "role": "Fully funded PhD: early-stage detection of neurodegenerative disease",
+  "university": "University of Manchester",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Imaging",
+   "Diagnostic Biomarkers"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD at the University of Manchester on early detection of neurodegenerative diseases using medical imaging and biomarkers.",
+  "relevance": 33,
+  "relevance_reason": "Imaging and funded PhD, but located in the UK, outside the target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/sofia-fields-editorial-services_phd-fullyfundedphd-universityofmanchester-activity-7521966589957521409-Lkq3",
+  "profile_url": "https://www.linkedin.com/company/sofia-fields-editorial-services/",
+  "title": "Sofia Fields Editorial Services' Post",
+  "snippet": "Fully Funded PhD at the University of Manchester, UK! Early-Stage Detection ... Medical imaging and diagnostic biomarkers Neurodegenerative diseases ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/sofia-fields-editorial-services_phd-fullyfundedphd-universityofmanchester-activity-7521966589957521409-Lkq3",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519350684438364160",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-23",
+  "poster_name": "owlindex",
+  "poster_type": "organization",
+  "role": "Fully funded PhD: Differential Privacy in Medical AI",
+  "university": "RWTH Aachen",
+  "lab": "",
+  "country": "Germany",
+  "research_areas": [
+   "Medical AI",
+   "Differential Privacy"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD at RWTH Aachen on differential privacy in medical AI.",
+  "relevance": 30,
+  "relevance_reason": "Medical AI and funded PhD, but in Germany, outside the target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/owlindex_differentialprivacy-medicalai-phdgermany-activity-7519350684438364160-HB9V",
+  "profile_url": "https://www.linkedin.com/company/owlindex/",
+  "title": "RWTH Aachen PhD: Differential Privacy in Medical AI",
+  "snippet": "1mo. Report this post; Close menu. Fully funded PhD students to join a ... hiring 8 funded AI postdocs. The roles span the US, Ireland, China, Germany ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/owlindex_differentialprivacy-medicalai-phdgermany-activity-7519350684438364160-HB9V",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521804280748642304",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-30",
+  "poster_name": "Azeem Bhatti",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Vermont",
+  "lab": "New lab, College of Agriculture and Life Sciences (One Health)",
+  "country": "USA",
+  "research_areas": [
+   "One Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "A PhD student is sought to join a new lab at the University of Vermont College of Agriculture and Life Sciences. The research uses a One Health approach.",
+  "relevance": 25,
+  "relevance_reason": "PhD in the USA at a new lab, but the One Health/agriculture topic is a weak fit and funding and timing are not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/azeem-bhatti-681476135_phd-opportunity-a-phd-student-to-join-activity-7521804280748642304-VYTA",
+  "profile_url": "https://www.linkedin.com/in/azeem-bhatti-681476135/",
+  "title": "Azeem Bhatti's Post",
+  "snippet": "PhD Opportunity A PhD student to join our new lab at the University of Vermont College of Agriculture and Life Sciences. Our research uses a One Health ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/azeem-bhatti-681476135_phd-opportunity-a-phd-student-to-join-activity-7521804280748642304-VYTA",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519879146529931264",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-24",
+  "poster_name": "Sainsbury Wellcome Centre",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "Sainsbury Wellcome Centre",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Neuroscience"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "September 2027",
+  "summary": "Fully funded PhD programme in neuroscience at the Sainsbury Wellcome Centre, September 2027 intake, open to international students.",
+  "relevance": 14,
+  "relevance_reason": "Neuroscience wet-lab topic and UK location (outside target countries), though fully funded with a compatible intake.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/milad-heiranipour-47756912a_apply-to-our-phd-programme-sainsbury-wellcome-activity-7519879146529931264-NAO0",
+  "profile_url": "https://www.linkedin.com/company/milad-heiranipour-47756912a/",
+  "title": "Apply to our PhD Programme | Sainsbury Wellcome Centre",
+  "snippet": "FULLY FUNDED PhD IN NEUROSCIENCE | SEPTEMBER 2027 INTAKE International ... Fall 2027. Fully funded research assistant positions are available for ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/milad-heiranipour-47756912a_apply-to-our-phd-programme-sainsbury-wellcome-activity-7519879146529931264-NAO0",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7520491645297942530",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-26",
+  "poster_name": "Careers Help Desk",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "Institute of Science and Technology Austria (ISTA)",
+  "lab": "",
+  "country": "Austria",
+  "research_areas": [
+   "General Sciences"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "ISTA PhD Program 2027 in Austria offers fully funded PhD positions for bachelor's and master's graduates.",
+  "relevance": 20,
+  "relevance_reason": "Fully funded PhD open to bachelor's graduates, but in Austria (non-target) and not specific to medical imaging.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/careers-help-desk_phdopportunities-fullyfundedphd-scholarships2027-activity-7520491645297942530-q34x",
+  "profile_url": "https://www.linkedin.com/company/careers-help-desk/",
+  "title": "Fully Funded PhD in Austria 2027 | ISTA",
+  "snippet": "... Scholarships #PhD #Fullyfunded #Austra #Europe. ISTA PhD Program 2027 in Austria – fully funded PhD positions for bachelor's and master's graduates. 1 · Like ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/careers-help-desk_phdopportunities-fullyfundedphd-scholarships2027-activity-7520491645297942530-q34x",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7520076698466394112",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-25",
+  "poster_name": "Brilliant Blue Biosciences",
+  "poster_type": "organization",
+  "role": "PhD scholarships and postdoc fellowships",
+  "university": "",
+  "lab": "",
+  "country": "Italy",
+  "research_areas": [
+   "Biomedical Sciences"
+  ],
+  "degrees": [
+   "PhD",
+   "Postdoc"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Italian PhD scholarships and postdoctoral fellowships for candidates with a Master's in Biomedical Sciences or related field.",
+  "relevance": 12,
+  "relevance_reason": "Located in Italy (non-target), requires a Master's degree, and is biomedical sciences rather than imaging AI.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/brilliant-blue-biosciences_researchinitaly-phdscholarships-postdocfellowship-activity-7520076698466394112-zrXJ",
+  "profile_url": "https://www.linkedin.com/company/brilliant-blue-biosciences/",
+  "title": "Italian PhD Scholarships Postdoctoral Fellowships and ...",
+  "snippet": "We are looking for candidates who: ✓ Hold a Master's degree in Biomedical Sciences or a related discipline ✓ Demonstrated strong academic performance during ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/brilliant-blue-biosciences_researchinitaly-phdscholarships-postdocfellowship-activity-7520076698466394112-zrXJ",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521628362071580672",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-29",
+  "poster_name": "Lamini Nurudeen",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "Translational Auditory lab",
+  "country": "",
+  "research_areas": [
+   "Auditory Research",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "A Translational Auditory lab is recruiting a PhD student for Fall 2027 from biomedical engineering and related fields.",
+  "relevance": 33,
+  "relevance_reason": "PhD for Fall 2027 in a biomedical engineering lab, but auditory focus, unclear country, and funding not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/lamini-nurudeen-644024325_phd-student-opportunity-recruiting-for-fall-activity-7521628362071580672-ninI",
+  "profile_url": "https://www.linkedin.com/in/lamini-nurudeen-644024325/",
+  "title": "Lamini NURUDEEN - PHD STUDENT OPPORTUNITY",
+  "snippet": "PHD STUDENT OPPORTUNITY: RECRUITING FOR FALL 2027 The Translational Auditory ... biomedical engineering, and related fields. • We value strong research ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/lamini-nurudeen-644024325_phd-student-opportunity-recruiting-for-fall-activity-7521628362071580672-ninI",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521556599916609536",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-29",
+  "poster_name": "Avinoam Bar Zion",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Technion",
+  "lab": "Precision Acoustic Theranostics (PATH) Lab",
+  "country": "Israel",
+  "research_areas": [
+   "Acoustics",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "The PATH Lab in Biomedical Engineering at Technion is recruiting a PhD student.",
+  "relevance": 12,
+  "relevance_reason": "Israel is outside target countries and the acoustic theranostics topic is weakly related; funding not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/avinoam-bar-zion-1a922012_were-recruiting-a-phd-student-at-the-activity-7521556599916609536-bIuL",
+  "profile_url": "https://www.linkedin.com/in/avinoam-bar-zion-1a922012/",
+  "title": "Avinoam Bar Zion's Post",
+  "snippet": "We're recruiting a PhD student at the Precision Acoustic Theranostics (PATH) Lab ... Biomedical Engineering, Technion.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/avinoam-bar-zion-1a922012_were-recruiting-a-phd-student-at-the-activity-7521556599916609536-bIuL",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7519044274349453312",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-10-22",
+  "poster_name": "UCL Medical Physics & Biomedical Engineering",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "University College London",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Ophthalmic Imaging",
+   "Digital Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "October 2026",
+  "summary": "Two fully funded EPSRC PhD positions in AI and eye imaging at UCL, starting Oct 2026.",
+  "relevance": 25,
+  "relevance_reason": "Strong topic match (AI and eye imaging) and fully funded, but UK and the Oct 2026 start has already passed.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ucl-medical-physics-biomedical-engineering_digital-health-technologies-phd-epsrc-funded-activity-7519044274349453312-h0a4",
+  "profile_url": "https://www.linkedin.com/company/ucl-medical-physics-biomedical-engineering/",
+  "title": "EPSRC Funded PhD in Digital Health Technologies at UCL",
+  "snippet": "Two Fully-Funded PhD Opportunities in AI & Eye Imaging (Starting Oct 2026) They are advertising two exciting PhD positions within the Northern ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ucl-medical-physics-biomedical-engineering_digital-health-technologies-phd-epsrc-funded-activity-7519044274349453312-h0a4",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7522669991578636288",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "2026-11-01",
+  "poster_name": "Gul Naz",
+  "poster_type": "person",
+  "role": "PhD (list of funded positions)",
+  "university": "",
+  "lab": "",
+  "country": "Germany",
+  "research_areas": [
+   "Materials",
+   "X-ray Science"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "List of funded PhD opportunities in Germany for November 2026, including X-ray science and materials/molecular systems.",
+  "relevance": 15,
+  "relevance_reason": "Located in Germany (outside target countries) and focused on materials/X-ray science, so weak topic fit.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/hellogerman-gul_funded-phd-opportunities-in-germany-november-activity-7522669991578636288-JC8W",
+  "profile_url": "https://www.linkedin.com/in/hellogerman-gul/",
+  "title": "Gul Naz's Post",
+  "snippet": "Funded PhD Opportunities in Germany | November 2026 Here are ... X-ray science, and the investigation of materials and molecular systems. 3. PhD Position ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/hellogerman-gul_funded-phd-opportunities-in-germany-november-activity-7522669991578636288-JC8W",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "url:https://x.com/researchersjob/status/2116907330562412753",
+  "first_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
+  "post_date": "",
+  "poster_name": "researchersjob",
+  "poster_type": "organization",
+  "role": "PhD position: Differential Privacy for Medical Deep Learning",
+  "university": "",
+  "lab": "Reliable Medical AI group",
+  "country": "",
+  "research_areas": [
+   "Medical AI",
+   "Differential Privacy",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD position in Differential Privacy for Medical Deep Learning at the Reliable Medical AI group. Country and deadline are not given in the snippet.",
+  "relevance": 50,
+  "relevance_reason": "Strong medical AI and trustworthy ML topic match and fully funded PhD, but country and timing are unknown.",
+  "inferred_fields": [],
+  "source": "x",
+  "post_url": "https://x.com/researchersjob/status/2116907330562412753",
+  "profile_url": "",
+  "title": "Post",
+  "snippet": "... invited for a fully funded PhD position in Differential Privacy for Medical Deep Learning at the Reliable Medical AI group, p https://t.co/5eHYPG5cYv.",
+  "links": [
+   {
+    "url": "https://x.com/researchersjob/status/2116907330562412753",
+    "source": "x"
+   }
+  ]
+ },
+ {
   "id": "li:7519414504464769024",
   "first_seen": "2026-10-29T02:29:23+00:00",
-  "last_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
   "post_date": "2026-10-23",
   "poster_name": "Gradehood",
   "poster_type": "organization",
@@ -13,12 +589,13 @@
   "research_areas": [
    "Medical Image Analysis",
    "Multimodal Learning",
-   "Foundation Models"
+   "Foundation Models",
+   "Neuroimaging AI"
   ],
   "degrees": [
    "PhD"
   ],
-  "funding": "Not stated",
+  "funding": "Fully funded",
   "deadline": "",
   "deadline_text": "",
   "start_term": "",
@@ -34,6 +611,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/gradehood_gradehood-phdopportunity-universityofqueensland-activity-7519414504464769024-C8rC",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gradehood_gradehood-phdopportunity-universityofqueensland-activity-7520357959835570176-NEwM",
     "source": "linkedin"
    }
   ]
@@ -583,29 +1164,31 @@
  {
   "id": "li:7518060894862512128",
   "first_seen": "2026-10-26T01:16:07+00:00",
-  "last_seen": "2026-10-26T01:16:07+00:00",
+  "last_seen": "2026-11-04T03:02:00+00:00",
   "post_date": "2026-10-19",
   "poster_name": "Position Hire",
   "poster_type": "organization",
   "role": "Graduate Research Assistant (PhD/MS)",
-  "university": "",
+  "university": "McGill University",
   "lab": "",
   "country": "USA",
   "research_areas": [
    "Food Rheology",
    "Soft Matter",
-   "Data-driven methods"
+   "Data-driven methods",
+   "Healthcare AI",
+   "Human-Centered AI"
   ],
   "degrees": [
-   "PhD",
-   "Master's"
+   "Master's",
+   "PhD"
   ],
   "funding": "Fully funded",
   "deadline": "",
   "deadline_text": "",
   "start_term": "Fall 2027",
   "summary": "Fully funded MS/PhD research assistantships in food rheology, gels and soft matter with data-driven approaches, starting Fall 2027.",
-  "relevance": 30,
+  "relevance": 50,
   "relevance_reason": "Fully funded, right intake and degree, but food science is a weak topic fit.",
   "inferred_fields": [
    "country"
@@ -618,6 +1201,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/positionhire_fully-funded-msphd-positions-in-food-rheology-activity-7518060894862512128-hHAh",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/positionhire_phd-position-in-human-centered-ai-for-healthcare-activity-7520505092068786177-Fpaa",
     "source": "linkedin"
    }
   ]
