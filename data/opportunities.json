@@ -1,5 +1,864 @@
 [
  {
+  "id": "li:7524109470210342912",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Christiana Banja",
+  "poster_type": "person",
+  "role": "PhD candidate",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Imaging",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position on AI-driven handheld imaging in medical imaging, biomedical engineering and military healthcare. Salary €3217–€4077 gross monthly.",
+  "relevance": 30,
+  "relevance_reason": "Good topic match and funded PhD, but salary in euros suggests Europe (outside target countries), capping the score.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/christiana-banja-b09484144_vacancy-phd-candidate-ai-driven-handheld-activity-7524109470210342912-3MNX",
+  "profile_url": "https://www.linkedin.com/in/christiana-banja-b09484144/",
+  "title": "Christiana Banja's Post",
+  "snippet": "... Medical Imaging, Biomedical Engineering and Military Healthcare ⏳ Duration ... PhD position. * €3217–€4077 gross monthly salary. * 36-hour working ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/christiana-banja-b09484144_vacancy-phd-candidate-ai-driven-handheld-activity-7524109470210342912-3MNX",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524058640991936515",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Barmak Honarvar Shakibaei Asli",
+  "poster_type": "person",
+  "role": "PhD position",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Breast Cancer Detection",
+   "Real-time AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position in real-time AI for early breast cancer detection using medical image analysis.",
+  "relevance": 40,
+  "relevance_reason": "Strong topic match and PhD, but country and funding unstated and no deadline.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/barmak-honarvar-shakibaei-asli-82869536_phd-programmes-research-projects-studentships-activity-7524058640991936515-woi0",
+  "profile_url": "https://www.linkedin.com/in/barmak-honarvar-shakibaei-asli-82869536/",
+  "title": "Barmak Honarvar Shakibaei Asli's Post",
+  "snippet": "PhD Opportunity in Real-Time AI for Early Breast Cancer Detection – Apply Now! I am delighted to announce a PhD position ... Medical Image Analysis Using Advanced",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/barmak-honarvar-shakibaei-asli-82869536_phd-programmes-research-projects-studentships-activity-7524058640991936515-woi0",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7523812357085655042",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-04",
+  "poster_name": "He Zhao",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Liverpool",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Imaging AI",
+   "Ultrasound",
+   "Fetal Medicine"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "PhD position in the poster's lab at Liverpool via the MRC NW-DMS DLA programme on longitudinal ultrasound and medical imaging AI for fetal medicine.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match but in the UK, so capped.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/he-zhao-key_mrc-nw-dms-dla-programme-longitudinal-ultrasound-activity-7523812357085655042-OtKx",
+  "profile_url": "https://www.linkedin.com/in/he-zhao-key/",
+  "title": "He Zhao's Post",
+  "snippet": "... PhD position is available in my lab at the University of Liverpool, through ... medical imaging AI and fetal medicine, in collaboration with Liverpool ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/he-zhao-key_mrc-nw-dms-dla-programme-longitudinal-ultrasound-activity-7523812357085655042-OtKx",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524838808786399232",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-07",
+  "poster_name": "Muhammad Perwaiz",
+  "poster_type": "person",
+  "role": "PhD positions",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Imaging",
+   "AI",
+   "Magnetic Nanoparticles"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Roundup of funded PhD positions across Finland, Austria and the UK, including medical imaging, magnetic nanoparticles and AI. Salary from €3776 gross.",
+  "relevance": 25,
+  "relevance_reason": "Positions are in Europe, outside target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/muhammad-perwaiz-86bb5a183_phd2027-fundedphd-studyineurope-activity-7524838808786399232-Wg6o",
+  "profile_url": "https://www.linkedin.com/in/muhammad-perwaiz-86bb5a183/",
+  "title": "Muhammad Perwaiz posted this",
+  "snippet": "... medical imaging, magnetic nanoparticles and AI. Salary: from €3776.10 gross ... PhD positions across Finland, Austria and the UK. These are specific ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/muhammad-perwaiz-86bb5a183_phd2027-fundedphd-studyineurope-activity-7524838808786399232-Wg6o",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524140778965872640",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Scholarship Opportunities Pakistan",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "University of Liverpool",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Imaging",
+   "Healthcare AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Fully funded MRC PhD at University of Liverpool on medical imaging and AI methods for healthcare.",
+  "relevance": 35,
+  "relevance_reason": "Great topic and fully funded, but UK location caps the score.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_fullyfundedphd-universityofliverpool-mrc-activity-7524140778965872640-e9NF",
+  "profile_url": "https://www.linkedin.com/company/scholarship-opportunities-pakistan/",
+  "title": "Scholarship Opportunities Pakistan's Post",
+  "snippet": "... medical imaging, and developing AI methods that could support better healthcare ... PhD positions, international scholarships, research opportunities, and ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_fullyfundedphd-universityofliverpool-mrc-activity-7524140778965872640-e9NF",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524209612628066305",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Liton Devnath",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "MRC NW-DMS DLA programme",
+  "country": "UK",
+  "research_areas": [
+   "Medical Imaging AI",
+   "Ultrasound"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "2026-11-27",
+  "deadline_text": "Application Deadline: 27 November 2026",
+  "start_term": "2027",
+  "summary": "MRC fully funded PhD in medical imaging AI, 2027 entry, open to UK and international applicants.",
+  "relevance": 35,
+  "relevance_reason": "Excellent topic and funding, but UK location caps the score.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/liton-devnath-8a00a5201_mrc-nw-dms-dla-programme-longitudinal-ultrasound-activity-7524209612628066305-yloS",
+  "profile_url": "https://www.linkedin.com/in/liton-devnath-8a00a5201/",
+  "title": "Liton Devnath - MRC NW-DMS DLA programme",
+  "snippet": "MRC Fully Funded PhD Opportunity in Medical Imaging AI | 2027 Entry Open to UK & International Applicants Application Deadline: 27 November 2026 One ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/liton-devnath-8a00a5201_mrc-nw-dms-dla-programme-longitudinal-ultrasound-activity-7524209612628066305-yloS",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7523314043261095936",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-03",
+  "poster_name": "Jessica Nelson",
+  "poster_type": "person",
+  "role": "PhD studentship",
+  "university": "University of Southampton",
+  "lab": "CDT-CIS",
+  "country": "UK",
+  "research_areas": [
+   "CT Imaging",
+   "Organoids"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Fully funded PhD studentship at CDT-CIS, Southampton, 2027, involving CT imaging and patient-derived organoids.",
+  "relevance": 28,
+  "relevance_reason": "Partly relevant (CT) and funded, but UK and wet-lab heavy.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/jessica-nelson-phd_cdtcis-universityofsouthampton-glp1-activity-7523314043261095936-KD83",
+  "profile_url": "https://www.linkedin.com/in/jessica-nelson-phd/",
+  "title": "Jessica Nelson's Post",
+  "snippet": "Fully Funded PhD Studentship | CDT-CIS | University of Southampton | 2027 ... CT imaging, stem-cell-derived models and patient-derived organoids to ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/jessica-nelson-phd_cdtcis-universityofsouthampton-glp1-activity-7523314043261095936-KD83",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524573197841731584",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-06",
+  "poster_name": "Hyeokhyen Kwon",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Emory University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Multimodal Learning",
+   "Clinical AI"
+  ],
+  "degrees": [
+   "PhD",
+   "Postdoc"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting 2 postdocs and 1 PhD student on multimodal ML and human-centered clinical AI.",
+  "relevance": 55,
+  "relevance_reason": "USA PhD in multimodal clinical AI is a good fit, though funding and timing are unstated and imaging focus is unclear.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/hyeokhyen-kwon-ph-d-bab043aa_post-doctoral-fellow-in-atlanta-georgia-activity-7524573197841731584-HMQn",
+  "profile_url": "https://www.linkedin.com/in/hyeokhyen-kwon-ph-d-bab043aa/",
+  "title": "Hyeokhyen Kwon, Ph.D.'s Post",
+  "snippet": "... recruiting 2 postdocs and 1 PhD students for topic below: 1️⃣ Multimodal ... clinical AI systems Interested? Find me or Azra Ismail in Dallas, or ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/hyeokhyen-kwon-ph-d-bab043aa_post-doctoral-fellow-in-atlanta-georgia-activity-7524573197841731584-HMQn",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hyeokhyen-kwon-ph-d-bab043aa_amia2026-clinicalinformatics-explainableai-activity-7525581284807487488-LHcg",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524527302265970688",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-06",
+  "poster_name": "Ahmed M. Alaa",
+  "poster_type": "person",
+  "role": "PhD students",
+  "university": "UC Berkeley / UCSF",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Clinical AI",
+   "Digital Health",
+   "Wearables"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Poster says they are always looking for talented PhD students in clinical AI and digital health, tied to a new team led by Ida Sim.",
+  "relevance": 45,
+  "relevance_reason": "USA PhD in clinical AI, but general call, wearables focus, and funding and deadline unstated.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ahmed-m-alaa-b1007614_so-excited-that-our-team-led-by-ida-sim-and-activity-7524527302265970688-o8mW",
+  "profile_url": "https://www.linkedin.com/in/ahmed-m-alaa-b1007614/",
+  "title": "Ahmed M. Alaa's Post",
+  "snippet": "... clinical AI and digital health that brings together wearables and ... we're always looking for talented PhD students who want to help shape this ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ahmed-m-alaa-b1007614_so-excited-that-our-team-led-by-ida-sim-and-activity-7524527302265970688-o8mW",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7522721116201717760",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-01",
+  "poster_name": "ML Scientist",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "University of Koblenz",
+  "lab": "",
+  "country": "Germany",
+  "research_areas": [
+   "Computer Vision",
+   "Image Analysis"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "2026-11-09",
+  "deadline_text": "Deadline: 2026-11-09",
+  "start_term": "",
+  "summary": "PhD in computer vision and AI image analysis at University of Koblenz, Germany. Deadline was 2026-11-09.",
+  "relevance": 15,
+  "relevance_reason": "Germany, deadline passed, non-medical focus.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ml-scientist_computervisionphd-aiimageanalysis-universityofkoblenz-activity-7522721116201717760-NL1m",
+  "profile_url": "https://www.linkedin.com/company/ml-scientist/",
+  "title": "ML Scientist's Post",
+  "snippet": "PhD Computer Vision AI Image Analysis University Koblenz Deadline: 2026-11-09 Location: Germany Hiring Organization: University of Koblenz University of ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ml-scientist_computervisionphd-aiimageanalysis-universityofkoblenz-activity-7522721116201717760-NL1m",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524020283679182848",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Dementia Researcher",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Foundation Models",
+   "Medical AI",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Competition-funded PhD studentship to build AI for early detection of disease from activity data using deep learning, foundation models and LLMs for clinical applications. Location is not stated in the snippet.",
+  "relevance": 35,
+  "relevance_reason": "Healthcare AI PhD with foundation models, but the country is unknown (likely UK), it is not imaging-focused, and the funding is competition-based.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/dementia-researcher_phd-ai-for-early-detection-of-disease-from-activity-7524020283679182848-dwKW",
+  "profile_url": "https://www.linkedin.com/company/dementia-researcher/",
+  "title": "Dementia Researcher's Post - PhD",
+  "snippet": "Technology is recruiting a competition-funded PhD student to build AI that ... deep learning, foundation models and large language models for clinical ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/dementia-researcher_phd-ai-for-early-detection-of-disease-from-activity-7524020283679182848-dwKW",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525642466587234304",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Matthias Wälle",
+  "poster_type": "person",
+  "role": "MSc and PhD students",
+  "university": "University of Calgary",
+  "lab": "",
+  "country": "Canada",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Machine Learning",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Lab at the University of Calgary is recruiting MSc and PhD students working at the intersection of medical imaging and machine learning.",
+  "relevance": 72,
+  "relevance_reason": "Strong topic match (medical imaging + ML), MSc/PhD in Canada, but funding and timing are not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/matthias-walle_msc-and-phd-opportunities-at-the-university-activity-7525642466587234304-rK87",
+  "profile_url": "https://www.linkedin.com/in/matthias-walle/",
+  "title": "MSc and PhD Opportunities at the University of Calgary",
+  "snippet": "I'm looking for MSc and PhD students to join my lab at the University of Calgary, working at the intersection of medical imaging, machine learning, and ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/matthias-walle_msc-and-phd-opportunities-at-the-university-activity-7525642466587234304-rK87",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524174488494755840",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Adam Coscia, Ph.D.",
+  "poster_type": "person",
+  "role": "PhD students",
+  "university": "Stevens Institute of Technology",
+  "lab": "Stevens Visualization Lab",
+  "country": "USA",
+  "research_areas": [
+   "Visualization",
+   "Human-Computer Interaction"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting PhD students for a brand-new visualization lab at Stevens. Application areas include health apps and healthcare.",
+  "relevance": 32,
+  "relevance_reason": "PhD in the USA at a new lab, but visualization is only loosely related to medical imaging and funding is not stated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/adam-coscia_ieeevis-phd-recruiting-activity-7524174488494755840-EzW4",
+  "profile_url": "https://www.linkedin.com/in/adam-coscia/",
+  "title": "Adam Coscia, Ph.D.'s Post",
+  "snippet": "... health apps, genealogy, healthcare, and more! Finally, I'm recruiting PhD students to join my brand-new lab, the Stevens Visualization Lab, at Stevens ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/adam-coscia_ieeevis-phd-recruiting-activity-7524174488494755840-EzW4",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524494668739276800",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-06",
+  "poster_name": "Scholarship Opportunities Pakistan",
+  "poster_type": "organization",
+  "role": "PhD students",
+  "university": "University of Wisconsin–Madison",
+  "lab": "New research lab",
+  "country": "USA",
+  "research_areas": [
+   "Human-centered AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "A new lab at UW–Madison is recruiting PhD students and research interns. The focus appears to be human-centered, but the snippet is truncated.",
+  "relevance": 28,
+  "relevance_reason": "PhD in the USA at a new lab, but the topic is unclear and probably not medical imaging, and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_uwmadison-phdpositions-researchinternships-activity-7524494668739276800-vdpq",
+  "profile_url": "https://www.linkedin.com/company/scholarship-opportunities-pakistan/",
+  "title": "Scholarship Opportunities Pakistan's Post",
+  "snippet": "JOIN A NEW RESEARCH LAB AT UW–MADISON! Exciting research opportunities for PhD students ... new lab will focus on Human- ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/scholarship-opportunities-pakistan_uwmadison-phdpositions-researchinternships-activity-7524494668739276800-vdpq",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7522951238360035328",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-02",
+  "poster_name": "Sirajudeen Abdullah olalekan",
+  "poster_type": "person",
+  "role": "PhD students",
+  "university": "",
+  "lab": "TRANSMIT Lab",
+  "country": "",
+  "research_areas": [
+   "Multimodal Imaging",
+   "Biomedical Sensing",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD positions at the TRANSMIT Lab, which develops quantitative multimodal imaging and sensing technologies for noninvasive diagnosis and treatment monitoring.",
+  "relevance": 55,
+  "relevance_reason": "Fully funded PhD in multimodal medical imaging, but country and timing are unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/sirajudeenabdullaholalekan_fully-funded-phd-positions-activity-7522951238360035328-Nx4g",
+  "profile_url": "https://www.linkedin.com/in/sirajudeenabdullaholalekan/",
+  "title": "Sirajudeen Abdullah olalekan - Fully Funded PhD Positions",
+  "snippet": "... PhD students ... The TRANSMIT Lab develops quantitative, multimodal imaging and sensing technologies for noninvasive diagnosis and treatment monitoring.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/sirajudeenabdullaholalekan_fully-funded-phd-positions-activity-7522951238360035328-Nx4g",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525598261907439616",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Patrick Cieslik",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "Molecular Imaging",
+  "country": "",
+  "research_areas": [
+   "Radiopharmaceutical Chemistry",
+   "Molecular Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Open PhD position in Radiopharmaceutical Chemistry at a Molecular Imaging group, focused on multimodal radiotracers and organic synthesis.",
+  "relevance": 12,
+  "relevance_reason": "Wet-lab chemistry topic, unknown country, funding and timing not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/patrick-a-cieslik_phdposition-radiopharmaceuticalchemistry-activity-7525598261907439616-aW0i",
+  "profile_url": "https://www.linkedin.com/in/patrick-a-cieslik/",
+  "title": "Patrick Cieslik's Post",
+  "snippet": "share that we have an open PhD position in Radiopharmaceutical Chemistry at the Molecular Imaging ... multimodal radiotracers, from organic synthesis and ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/patrick-a-cieslik_phdposition-radiopharmaceuticalchemistry-activity-7525598261907439616-aW0i",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524227282153189377",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-05",
+  "poster_name": "Gongchen Sun",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Texas at San Antonio",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Spring or Summer 2027",
+  "summary": "Recruiting a PhD student through UTSA BME, ME, or CME PhD programs. Anticipated start is Spring or Summer 2027.",
+  "relevance": 40,
+  "relevance_reason": "PhD in USA in a BME program, but topic unclear, funding not stated, and the start is earlier than the preferred intake.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/gongchen-sun_we-are-recruiting-a-phd-student-through-the-activity-7524227282153189377-dT7I",
+  "profile_url": "https://www.linkedin.com/in/gongchen-sun/",
+  "title": "Gongchen Sun's Post",
+  "snippet": "We are recruiting a PhD student through the UT San Antonio BME, ME, or CME PhD programs, with an anticipated start date in Spring or Summer 2027.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/gongchen-sun_we-are-recruiting-a-phd-student-through-the-activity-7524227282153189377-dT7I",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7521526470532423680",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-10-29",
+  "poster_name": "Department of Biomedical Engineering, University of Basel",
+  "poster_type": "organization",
+  "role": "PhD candidate",
+  "university": "University of Basel",
+  "lab": "",
+  "country": "Switzerland",
+  "research_areas": [
+   "Machine Learning",
+   "Preterm Lung Health"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting a PhD candidate in Machine Learning for Preterm Lung Health.",
+  "relevance": 33,
+  "relevance_reason": "Relevant ML-for-health topic and PhD, but the position is in Switzerland, which caps the score.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/dbe-unibasel_dbe-hiring-medtech-activity-7521526470532423680-EpO2",
+  "profile_url": "https://www.linkedin.com/company/dbe-unibasel/",
+  "title": "Department of Biomedical Engineering | University of Basel",
+  "snippet": "Department of Biomedical Engineering | University of Basel's Post. View ... recruiting a PhD candidate in Machine Learning for Preterm Lung Health.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/dbe-unibasel_dbe-hiring-medtech-activity-7521526470532423680-EpO2",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7522859651927867392",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-02",
+  "poster_name": "Hamid Alinejad Rokny",
+  "poster_type": "person",
+  "role": "PhD scholarship",
+  "university": "UNSW",
+  "lab": "School of Biomedical Engineering",
+  "country": "Australia",
+  "research_areas": [
+   "LLM",
+   "AI for Biology",
+   "Digital Twins"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD scholarship at UNSW School of Biomedical Engineering on AI for biology, LLMs and virtual cells.",
+  "relevance": 20,
+  "relevance_reason": "Australia, and the topic is LLM/biology rather than imaging.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/hamid-alinejad-rokny-a1445953_ai-ai-interdisciplinary-activity-7522859651927867392-GNs0",
+  "profile_url": "https://www.linkedin.com/in/hamid-alinejad-rokny-a1445953/",
+  "title": "Hamid Alinejad Rokny's Post",
+  "snippet": "Link: https://lnkd.in/gURFuVdy UNSW School of Biomedical Engineering #PhD #PhDScholarship #LLM #AIforBiology #BiomedicalAI #DigitalTwins #VirtualCells. text.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/hamid-alinejad-rokny-a1445953_ai-ai-interdisciplinary-activity-7522859651927867392-GNs0",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524577169289900033",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-06",
+  "poster_name": "Lan Wei",
+  "poster_type": "person",
+  "role": "PhD scholarship",
+  "university": "University College Dublin",
+  "lab": "",
+  "country": "Ireland",
+  "research_areas": [
+   "Deep Learning",
+   "Transfer Learning",
+   "Explainable AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Fully funded UCD-CSC scholarship PhD opportunities in Dublin, including deep learning, transfer learning and explainable AI topics.",
+  "relevance": 33,
+  "relevance_reason": "Fully funded PhD with some ML topic overlap, but in Ireland and for CSC-eligible applicants.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/lan-wei-6203a8141_ucd-china-scholarship-scheme-csc-activity-7524577169289900033-Rder",
+  "profile_url": "https://www.linkedin.com/in/lan-wei-6203a8141/",
+  "title": "Lan Wei - UCD China Scholarship Scheme (CSC)",
+  "snippet": "Fully Funded PhD Opportunities in Dublin, Ireland | UCD-CSC Scholarship 2027 ... Deep Learning and Transfer Learning Explainable Artificial ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/lan-wei-6203a8141_ucd-china-scholarship-scheme-csc-activity-7524577169289900033-Rder",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524885894320005120",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "2026-11-07",
+  "poster_name": "Cosmos O.",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Georgia",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Computational Brain Mechanics",
+   "Data-Driven Modeling",
+   "AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Fully funded PhD position at University of Georgia in AI/data-driven computational brain mechanics, starting Fall 2027.",
+  "relevance": 50,
+  "relevance_reason": "Fully funded PhD in USA for Fall 2027, but the topic is brain mechanics, only partly related to medical imaging AI.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/cosmos-o-bb57b1144_fully-funded-phd-position-at-university-activity-7524885894320005120-PRFi",
+  "profile_url": "https://www.linkedin.com/in/cosmos-o-bb57b1144/",
+  "title": "Cosmos O.'s Post",
+  "snippet": "Fully funded Ph.D. position at University of Georgia AI/Data-Driven Computational Brain Mechanics Fall 2027. Georgia, Athens, USA",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/cosmos-o-bb57b1144_fully-funded-phd-position-at-university-activity-7524885894320005120-PRFi",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "url:https://www.upf.edu/home/-/asset_publisher/Bym0y8DtVfMc/blog/open-phd-position-inphinit-la-caixa-doctoral-fellowship-programme/3854030/maximized",
+  "first_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
+  "post_date": "",
+  "poster_name": "Universitat Pompeu Fabra",
+  "poster_type": "organization",
+  "role": "PhD fellowship",
+  "university": "Universitat Pompeu Fabra",
+  "lab": "",
+  "country": "Spain",
+  "research_areas": [
+   "Medical Imaging",
+   "Cognitive Neuroscience",
+   "Computer Vision"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "INPhINIT la Caixa doctoral fellowship programme listing PhD projects at UPF, including one on medical imaging data.",
+  "relevance": 30,
+  "relevance_reason": "Some medical imaging overlap and funded PhD, but in Spain, which caps the score.",
+  "inferred_fields": [],
+  "source": "web",
+  "post_url": "https://www.upf.edu/home/-/asset_publisher/Bym0y8DtVfMc/blog/open-phd-position-inphinit-la-caixa-doctoral-fellowship-programme/3854030/maximized",
+  "profile_url": "",
+  "title": "INPhINIT, “la Caixa” Doctoral Fellowship Programme",
+  "snippet": "Phd position in Cognitive Neuroscience: Neural predictors of Memory ... medical imaging data (Prof.Josep Blat); Geometric analysis of video recordings ...",
+  "links": [
+   {
+    "url": "https://www.upf.edu/home/-/asset_publisher/Bym0y8DtVfMc/blog/open-phd-position-inphinit-la-caixa-doctoral-fellowship-programme/3854030/maximized",
+    "source": "web"
+   }
+  ]
+ },
+ {
   "id": "li:7520696132323139584",
   "first_seen": "2026-11-04T03:02:00+00:00",
   "last_seen": "2026-11-04T03:02:00+00:00",
@@ -386,14 +1245,14 @@
  {
   "id": "li:7521628362071580672",
   "first_seen": "2026-11-04T03:02:00+00:00",
-  "last_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-11T02:50:23+00:00",
   "post_date": "2026-10-29",
   "poster_name": "Lamini Nurudeen",
   "poster_type": "person",
   "role": "PhD student",
-  "university": "",
+  "university": "University of Texas at San Antonio",
   "lab": "Translational Auditory lab",
-  "country": "",
+  "country": "USA",
   "research_areas": [
    "Auditory Research",
    "Biomedical Engineering"
@@ -406,7 +1265,7 @@
   "deadline_text": "",
   "start_term": "Fall 2027",
   "summary": "A Translational Auditory lab is recruiting a PhD student for Fall 2027 from biomedical engineering and related fields.",
-  "relevance": 33,
+  "relevance": 38,
   "relevance_reason": "PhD for Fall 2027 in a biomedical engineering lab, but auditory focus, unclear country, and funding not stated.",
   "inferred_fields": [],
   "source": "linkedin",
@@ -417,6 +1276,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/lamini-nurudeen-644024325_phd-student-opportunity-recruiting-for-fall-activity-7521628362071580672-ninI",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lamini-nurudeen-644024325_phd-in-the-us-activity-7524489228530081792-c4gK",
     "source": "linkedin"
    }
   ]

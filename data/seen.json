@@ -1671,5 +1671,254 @@
   "d": "2026-11-04",
   "s": "rejected",
   "why": "Staff research scientist job, not a graduate position."
+ },
+ "li:7523749011892244480": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523651305425260545": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523691192417579009": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523561216728838145": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523469627142635520": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523194914122391552": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523828034051710976": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523788947626315776": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7524472046781714433": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7521834789088395264": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7522951739155562496": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523362383780794368": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7524039917660958721": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523799041063968768": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7521979768389419010": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523867427999514624": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7524487961242030080": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7522044346725068800": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523423836558635008": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523752341670563840": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7525894599031074816": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523116349578076160": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7523014552335097856": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "url:https://cpc.tsu.edu/jobs/wake-forest-school-of-medicine-biomedical-engineering-and-informatics-summer-research-internship-program": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "url:https://careerservices.fas.harvard.edu/jobs/wake-forest-university-school-of-medicine-biomedical-engineering-and-informatics-research-internships": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "url:https://www.mua.edu/blog/ai-in-medicine": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "url:https://www.steu.edu/files/SEU_2026_Academic_Catalog_01a.pdf": {
+  "d": "2026-11-11",
+  "s": "filtered"
+ },
+ "li:7524109470210342912": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524058640991936515": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7522810170205253633": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Advice post on cold emailing, not an opening"
+ },
+ "li:7523812357085655042": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524838808786399232": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524140778965872640": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524209612628066305": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7523314043261095936": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524573197841731584": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524527302265970688": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7525581284807487488": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7522721116201717760": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7523618084805423105": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Industry/general job openings for ME/MTech and PhD graduates; not a graduate recruitment post"
+ },
+ "li:7524020283679182848": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7521162440420573184": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Postdoctoral position only"
+ },
+ "li:7523513559633408000": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Postdoc-only hiring"
+ },
+ "li:7524444513650610177": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Postdoctoral fellow hiring only"
+ },
+ "li:7525642466587234304": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524174488494755840": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7523842077357699072": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Postdoc hiring only"
+ },
+ "li:7524494668739276800": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524501092278415360": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Staff research assistant job, not graduate recruitment"
+ },
+ "li:7522951238360035328": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7522824835316613120": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Deadline passed (03 Nov 2026) and the position is in Sweden"
+ },
+ "li:7525598261907439616": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524227282153189377": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524489228530081792": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7521526470532423680": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7522859651927867392": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524577169289900033": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "li:7524885894320005120": {
+  "d": "2026-11-11",
+  "s": "accepted"
+ },
+ "url:https://hst.mit.edu/news-events/twihst/volume-28-number-8": {
+  "d": "2026-11-11",
+  "s": "rejected",
+  "why": "Newsletter with seminar announcements; the PhD mention is in computational systems biology and not a clear opening."
+ },
+ "url:https://www.upf.edu/home/-/asset_publisher/Bym0y8DtVfMc/blog/open-phd-position-inphinit-la-caixa-doctoral-fellowship-programme/3854030/maximized": {
+  "d": "2026-11-11",
+  "s": "accepted"
  }
 }
