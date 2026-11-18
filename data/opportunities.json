@@ -1,8 +1,1156 @@
 [
  {
+  "id": "li:7526159420351725568",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-11",
+  "poster_name": "PhD Finder Team",
+  "poster_type": "organization",
+  "role": "MSc & PhD student",
+  "university": "University of Calgary",
+  "lab": "",
+  "country": "Canada",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Machine Learning",
+   "Clinical AI"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "MSc and PhD positions in medical imaging at the University of Calgary. Focus on medical image analysis, machine learning and clinically driven projects.",
+  "relevance": 80,
+  "relevance_reason": "Strong topic match in medical image analysis, Canada, and PhD/MSc, but funding and timing are not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/phdfinder-team_canada-msc-phd-position-in-medical-imaging-activity-7526159420351725568-dHXF",
+  "profile_url": "https://www.linkedin.com/company/phdfinder-team/",
+  "title": "MSc & PhD Position in Medical Imaging at University of Calgary",
+  "snippet": "Canada – MSc & PhD Position in Medical Imaging at University of Calgary ... Medical image analysis and machine learning ✓ Clinical driven projects ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/phdfinder-team_canada-msc-phd-position-in-medical-imaging-activity-7526159420351725568-dHXF",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526970643771305984",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-13",
+  "poster_name": "PhD Finder Team",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "Durham University",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Biomedical Imaging",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position in AI for biomedical imaging at Durham University.",
+  "relevance": 33,
+  "relevance_reason": "Great topic match but the position is in the UK, which is outside target countries, and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/phdfinder-team_uk-phd-position-in-ai-for-biomedical-imaging-activity-7526970643771305984-jLsY",
+  "profile_url": "https://www.linkedin.com/company/phdfinder-team/",
+  "title": "UK – PhD Position in AI for Biomedical Imaging at Durham University",
+  "snippet": "... Medical Imaging Are you passionate about harnessing artificial intelligence ... medical image analysis. I sincerely thanks to Prof. Dr. Kirti Wanjale ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/phdfinder-team_uk-phd-position-in-ai-for-biomedical-imaging-activity-7526970643771305984-jLsY",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526909778472730624",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-13",
+  "poster_name": "Helmholtz Information & Data Science Academy",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "DKFZ",
+  "lab": "",
+  "country": "Germany",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Agentic AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD positions in agentic AI for medical image analysis at DKFZ.",
+  "relevance": 33,
+  "relevance_reason": "Good topic fit but located in Germany, outside target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/helmholtz-information-data-science-academy_job-alert-friday-exciting-opportunity-activity-7526909778472730624-MHnw",
+  "profile_url": "https://www.linkedin.com/company/helmholtz-information-data-science-academy/",
+  "title": "Helmholtz Information & Data Science Academy",
+  "snippet": "Job Alert Friday! Exciting Opportunity at DKFZ Deutsches Krebsforschungszentrum PhD Positions in Agentic AI for Medical Image Analysis ‍ In this ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/helmholtz-information-data-science-academy_job-alert-friday-exciting-opportunity-activity-7526909778472730624-MHnw",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526396519135117312",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-11",
+  "poster_name": "Daniel Rueckert",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Munich Center for Machine Learning",
+  "lab": "",
+  "country": "Germany",
+  "research_areas": [
+   "Machine Learning",
+   "Medical Image Analysis"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD positions at the Munich Center for Machine Learning, with postdoc positions in ML and medical imaging also mentioned.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic and fully funded, but Germany is outside target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/daniel-rueckert-3502a71_this-is-a-great-opportunity-for-fully-funded-activity-7526396519135117312-ZwaF",
+  "profile_url": "https://www.linkedin.com/in/daniel-rueckert-3502a71/",
+  "title": "Daniel Rueckert - Munich Center for Machine Learning",
+  "snippet": "This is a great opportunity for fully funded PhD positions at the Munich Center for Machine Learning ... Post-doc positions in Machine Learning and Medical Image ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/daniel-rueckert-3502a71_this-is-a-great-opportunity-for-fully-funded-activity-7526396519135117312-ZwaF",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525654477660573696",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Debesh Jha",
+  "poster_type": "person",
+  "role": "PhD candidate",
+  "university": "Norwegian University of Science and Technology",
+  "lab": "",
+  "country": "Norway",
+  "research_areas": [
+   "Explainable AI",
+   "Computer Vision",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD opportunity in explainable AI for computer vision and medical imaging at NTNU.",
+  "relevance": 33,
+  "relevance_reason": "Good topic match but Norway is outside target countries.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/debesh-jha-ph-d-071462aa_phd-candidate-in-explainable-ai-xai-for-activity-7525654477660573696-042f",
+  "profile_url": "https://www.linkedin.com/in/debesh-jha-ph-d-071462aa/",
+  "title": "Norwegian University of Science and Technology | Debesh Jha, Ph.D.",
+  "snippet": "Excellent opportunity for aspiring PhD students interested in Artificial Intelligence, Computer Vision, Explainable AI (XAI), and Medical Imaging! Prof.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/debesh-jha-ph-d-071462aa_phd-candidate-in-explainable-ai-xai-for-activity-7525654477660573696-042f",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526053776018026496",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-10",
+  "poster_name": "Annals of Biomedical Engineering",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Imaging",
+   "Computational Biomechanics"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Funded PhD position in medical imaging and computational biomechanics. University and location are not given in the snippet.",
+  "relevance": 42,
+  "relevance_reason": "Medical imaging with a funded PhD, but the country is unknown and biomechanics is only partly relevant.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/abmejournal_the-annals-of-biomedical-engineering-abme-activity-7526053776018026496-Cw40",
+  "profile_url": "https://www.linkedin.com/company/abmejournal/",
+  "title": "Annals of Biomedical Engineering's Post",
+  "snippet": "Funded PhD position in Medical imaging and computational biomechanics at the ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/abmejournal_the-annals-of-biomedical-engineering-abme-activity-7526053776018026496-Cw40",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525195944347402241",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-08",
+  "poster_name": "PhD Hunter",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Cardiac MRI",
+   "Physics-Informed AI",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Salaried PhD in physics-informed AI for cardiac MRI. Location is not stated.",
+  "relevance": 45,
+  "relevance_reason": "Good topic fit and salaried PhD, but the country is unknown. The term 'salaried' often indicates a UK or European post.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/phd-hunter_salaried-phd-in-physics-informed-ai-for-cardiac-activity-7525195944347402241-2QCG",
+  "profile_url": "https://www.linkedin.com/company/phd-hunter/",
+  "title": "Salaried PhD in Physics-Informed AI for Cardiac MRI",
+  "snippet": "... Medical Imaging, MRI Physics & Cardiac Healthcare ... PhD position ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/phd-hunter_salaried-phd-in-physics-informed-ai-for-cardiac-activity-7525195944347402241-2QCG",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524799386380402688",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-07",
+  "poster_name": "Anthony Romeo",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Imaging",
+   "Computational Biomechanics"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Funded PhD position in medical imaging and computational biomechanics. University is not given in the snippet.",
+  "relevance": 40,
+  "relevance_reason": "Funded PhD in medical imaging, but the country is unknown and biomechanics is only partly relevant.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/anthony-romeo-ab713685_great-advice-activity-7524799386380402688-6Vg-",
+  "profile_url": "https://www.linkedin.com/in/anthony-romeo-ab713685/",
+  "title": "Great advice! | Anthony Romeo",
+  "snippet": "Funded PhD position in Medical imaging and computational biomechanics at the ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/anthony-romeo-ab713685_great-advice-activity-7524799386380402688-6Vg-",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525571290670235648",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Julie-Anne Little",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Vision Science",
+   "Driving"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Fully funded PhD combining clinical vision science and driving standards.",
+  "relevance": 18,
+  "relevance_reason": "Fully funded PhD, but the topic is clinical vision science and driving, which is a poor match, and the country is unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/julie-anne-little-52a8866b_could-our-current-driver-vision-standards-activity-7525571290670235648-RY51",
+  "profile_url": "https://www.linkedin.com/in/julie-anne-little-52a8866b/",
+  "title": "Julie-Anne Little's Post",
+  "snippet": "This fully funded PhD will combine clinical vision science and driving ... From medical imaging and radiotherapy to radiation safety and the ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/julie-anne-little-52a8866b_could-our-current-driver-vision-standards-activity-7525571290670235648-RY51",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528136266278858752",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-16",
+  "poster_name": "Hien Van Nguyen",
+  "poster_type": "person",
+  "role": "PhD student recruitment",
+  "university": "University of Houston",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Medical AI",
+   "Robotics",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Hien Van Nguyen is recruiting PhD students for his group at the University of Houston, working on medical AI and robotics.",
+  "relevance": 70,
+  "relevance_reason": "Medical AI PhD in the USA matches the applicant's interests, but funding and timing are not stated and robotics is only partly relevant.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/hien-van-nguyen-407517ab_phdopportunity-medicalai-robotics-activity-7528136266278858752-NZee",
+  "profile_url": "https://www.linkedin.com/in/hien-van-nguyen-407517ab/",
+  "title": "#phdopportunity #medicalai #robotics | Hien Van Nguyen",
+  "snippet": "Interested in medical AI or robotics? I'm looking for PhD students to join my group at the University of Houston! If you enjoy building AI models and ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/hien-van-nguyen-407517ab_phdopportunity-medicalai-robotics-activity-7528136266278858752-NZee",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525288046251159552",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-08",
+  "poster_name": "Nurul Islam, PhD",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "SERMOS Lab",
+  "country": "",
+  "research_areas": [
+   "Medical AI",
+   "Medical AI Agents"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "The SERMOS Lab is recruiting 1–2 highly motivated PhD students. The post mentions work on Medical AI Agents.",
+  "relevance": 40,
+  "relevance_reason": "Medical AI PhD opening, but location, funding and timing are unstated and the focus on agents is less imaging-centered.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/mnislamraju_looks-promising-for-candidates-seeking-research-activity-7525288046251159552-UYfD",
+  "profile_url": "https://www.linkedin.com/in/mnislamraju/",
+  "title": "Nurul Islam, PhD's Post",
+  "snippet": "The SERMOS Lab is recruiting 1–2 highly motivated PhD students to join our research team! ... Medical AI Agents,” has been accepted as a poster at ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/mnislamraju_looks-promising-for-candidates-seeking-research-activity-7525288046251159552-UYfD",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526801662141939712",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-13",
+  "poster_name": "Raheleh Kafieh",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Durham University",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Biomedical Imaging",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD opportunity in AI for biomedical imaging at Durham University with an industry collaboration. A highly motivated student is being recruited.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match, but the position is in the UK (outside target countries) and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/raheleh-kafieh-aa85356_phdopportunity-industrycollaboration-activity-7526801662141939712-sQqi",
+  "profile_url": "https://www.linkedin.com/in/raheleh-kafieh-aa85356/",
+  "title": "Raheleh Kafieh's Post",
+  "snippet": "... deep learning, and programming ... Close menu. PhD Opportunity in AI for Biomedical Imaging – Durham University! I am recruiting a highly motivated PhD ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/raheleh-kafieh-aa85356_phdopportunity-industrycollaboration-activity-7526801662141939712-sQqi",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525191612751142913",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-08",
+  "poster_name": "Shamim Forhad",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Inria Paris",
+  "lab": "Astra-Vision group",
+  "country": "France",
+  "research_areas": [
+   "Computer Vision",
+   "Generative AI",
+   "World Models"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Spring 2027",
+  "summary": "Funded PhD in computer vision and AI at the Astra-Vision group, Inria Paris, starting Spring 2027. Focus is world models and generative AI.",
+  "relevance": 18,
+  "relevance_reason": "Funded PhD but in France, with non-medical computer vision focus.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/shamimforhad_fundedphd-phdposition-phdinfrance-activity-7525191612751142913-fNIb",
+  "profile_url": "https://www.linkedin.com/in/shamimforhad/",
+  "title": "Shamim Forhad's Post",
+  "snippet": "Funded PhD in Computer Vision & AI at Inria Paris | Start Spring 2027 Interested in world models and generative AI? The Astra-Vision group at Inria Paris is ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/shamimforhad_fundedphd-phdposition-phdinfrance-activity-7525191612751142913-fNIb",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525112560862380032",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-08",
+  "poster_name": "Tabssum Naz",
+  "poster_type": "person",
+  "role": "PhD or Postdoc",
+  "university": "",
+  "lab": "CRISTAL Lab",
+  "country": "France",
+  "research_areas": [
+   "Computer Vision",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD",
+   "Postdoc"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "CRISTAL Lab lists a PhD or Postdoc position in computer vision / deep learning.",
+  "relevance": 15,
+  "relevance_reason": "CRISTAL Lab is in Lille, France (outside target countries); topic is generic CV and funding is not stated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/tabssum-naz-8713b91a5_cristal-lab-activity-7525112560862380032-fZ_8",
+  "profile_url": "https://www.linkedin.com/in/tabssum-naz-8713b91a5/",
+  "title": "Tabssum Naz - CRISTAL Lab",
+  "snippet": "PhD Position F/M PhD Position or Postdoc Computer Vision / Deep Learning ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/tabssum-naz-8713b91a5_cristal-lab-activity-7525112560862380032-fZ_8",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528129490581934081",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-16",
+  "poster_name": "Eva Alonso Ortiz",
+  "poster_type": "person",
+  "role": "MSc student",
+  "university": "Polytechnique Montréal",
+  "lab": "",
+  "country": "Canada",
+  "research_areas": [
+   "MRI",
+   "Medical Imaging",
+   "Quantitative Neuroimaging"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Funded MSc opportunity in MRI research. The lab covers medical imaging and quantitative neuroimaging.",
+  "relevance": 65,
+  "relevance_reason": "Funded thesis-based MSc in medical imaging in Canada; MRI physics focus is a bit off from ML, and timing is unstated.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/eva-alonso-ortiz_funded-msc-opportunity-in-mri-research-activity-7528129490581934081-xYNj",
+  "profile_url": "https://www.linkedin.com/in/eva-alonso-ortiz/",
+  "title": "Eva Alonso Ortiz's Post",
+  "snippet": "Funded MSc opportunity in MRI research I'm looking for an MSc student to join my lab ... medical imaging, and quantitative neuroimaging. Please see the ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/eva-alonso-ortiz_funded-msc-opportunity-in-mri-research-activity-7528129490581934081-xYNj",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7527387799424090112",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-14",
+  "poster_name": "NAAMII",
+  "poster_type": "organization",
+  "role": "Research Assistant – R&D in Medical Image Analysis",
+  "university": "",
+  "lab": "MAP-MED Lab, NAAMII",
+  "country": "Nepal",
+  "research_areas": [
+   "Medical Image Analysis"
+  ],
+  "degrees": [
+   "RA"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "Only a few days left to apply",
+  "start_term": "",
+  "summary": "NAAMII's MAP-MED Lab is recruiting a Research Assistant in medical image analysis R&D. Application closes in a few days.",
+  "relevance": 30,
+  "relevance_reason": "Strong topic match but it is an RA job in Nepal (not USA/Canada), with no funding or degree details and a deadline that is imminent.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/naamiinepal_only-a-few-days-left-to-apply-for-the-activity-7527387799424090112-GpMP",
+  "profile_url": "https://www.linkedin.com/company/naamiinepal/",
+  "title": "NAAMII's Post",
+  "snippet": "Only a few days left to apply for the Research Assistant – R&D in Medical Image Analysis position with the MAP-MED Lab at NAAMII.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/naamiinepal_only-a-few-days-left-to-apply-for-the-activity-7527387799424090112-GpMP",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7527038234472763392",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-13",
+  "poster_name": "UNO Department of Biomechanics",
+  "poster_type": "organization",
+  "role": "Graduate Research Assistant",
+  "university": "University of Nebraska Omaha",
+  "lab": "Aaron Likens' team",
+  "country": "USA",
+  "research_areas": [
+   "Biomechanics",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "Master's",
+   "PhD",
+   "RA"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Associate Professor Aaron Likens is seeking a Graduate Research Assistant for his team in the UNO Department of Biomechanics.",
+  "relevance": 38,
+  "relevance_reason": "USA graduate RA position with funding, but biomechanics topic is only a partial match and details and timing are unstated.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/uno-department-of-biomechanics_associate-professor-aaron-likens-phd-is-activity-7527038234472763392-OXIA",
+  "profile_url": "https://www.linkedin.com/company/uno-department-of-biomechanics/",
+  "title": "UNO Department of Biomechanics' Post",
+  "snippet": "Associate Professor Aaron Likens, PhD is currently looking for a Graduate Research Assistant to join his team ... Biomedical Engineering! Ranked #18 ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/uno-department-of-biomechanics_associate-professor-aaron-likens-phd-is-activity-7527038234472763392-OXIA",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525602872013557761",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Seungil Kim",
+  "poster_type": "person",
+  "role": "Graduate Research/Teaching Assistantships (GRA/GTA)",
+  "university": "Mississippi State University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD",
+   "Master's"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Faculty page invites students from Biomedical Engineering, Bioengineering and related fields for GRA/GTA positions with tuition support.",
+  "relevance": 33,
+  "relevance_reason": "USA funded graduate assistantships in BME, but the AI/imaging focus is unclear and there is no deadline.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/seungil-kim-53b91498_biography-msstate-faculty-activity-7525602872013557761-P2Gy",
+  "profile_url": "https://www.linkedin.com/in/seungil-kim-53b91498/",
+  "title": "Biography | MSState Faculty | Seungil Kim",
+  "snippet": "Students from Biomedical Engineering, Bioengineering, Chemical ... (GRA/GTA) with tuition support and opportunities for publications, conference ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/seungil-kim-53b91498_biography-msstate-faculty-activity-7525602872013557761-P2Gy",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528285740980658176",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-17",
+  "poster_name": "Lamini Nurudeen",
+  "poster_type": "person",
+  "role": "Master's student position",
+  "university": "",
+  "lab": "",
+  "country": "Canada",
+  "research_areas": [
+   "MRI",
+   "Medical Imaging",
+   "Neuroimaging"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Funded Master's opportunity in Canada for students interested in MRI physics, medical imaging and quantitative neuroimaging.",
+  "relevance": 60,
+  "relevance_reason": "Funded Master's in Canada in medical imaging, though MRI physics is somewhat off the AI focus and deadline/term are unknown.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/lamini-nurudeen-644024325_masters-opportunity-in-canada-activity-7528285740980658176-RW2H",
+  "profile_url": "https://www.linkedin.com/in/lamini-nurudeen-644024325/",
+  "title": "Masters Opportunity in Canada 🇨🇦 | Lamini NURUDEEN",
+  "snippet": "This is a funded opportunity for students interested in MRI physics, medical imaging, and quantitative neuroimaging. Please see the attached for full ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/lamini-nurudeen-644024325_masters-opportunity-in-canada-activity-7528285740980658176-RW2H",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528090493876883457",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-16",
+  "poster_name": "Letizia Gionfrida",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "UK",
+  "research_areas": [
+   "Robot Learning",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Hiring a funded PhD student in Robot Learning, restricted to UK Home students. Linked to Biomedical Engineering & Imaging Sciences.",
+  "relevance": 8,
+  "relevance_reason": "UK-only, home-student restricted, robotics topic; poor fit.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/letizia-gionfrida-808915130_im-hiring-a-funded-phd-student-uk-home-activity-7528090493876883457-oxJS",
+  "profile_url": "https://www.linkedin.com/in/letizia-gionfrida-808915130/",
+  "title": "Letizia Gionfrida's Post",
+  "snippet": "I'm hiring a funded PhD student (UK Home student) in Robot Learning ... Biomedical Engineering & Imaging Sciences #PhD #Robotics #RobotLearning ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/letizia-gionfrida-808915130_im-hiring-a-funded-phd-student-uk-home-activity-7528090493876883457-oxJS",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7527989114319667200",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-16",
+  "poster_name": "Fabian Just",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Ulm University",
+  "lab": "Institute of Biomedical Engineering",
+  "country": "Germany",
+  "research_areas": [
+   "Smart Orthosis",
+   "Rehabilitation",
+   "Biomedical Engineering"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position at Ulm University's Institute of Biomedical Engineering on smart orthosis for home knee rehabilitation.",
+  "relevance": 22,
+  "relevance_reason": "Knee-related biomedical engineering PhD but in Germany, mostly hardware/rehab, funding not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/fabian-just_phd-position-ulm-university-germany-smart-activity-7527989114319667200-k72d",
+  "profile_url": "https://www.linkedin.com/in/fabian-just/",
+  "title": "PhD Position Ulm University Germany, Smart Orthosis | Fabian Just",
+  "snippet": "Most knee rehabilitation happens at home. Nobody sees it. We're hiring a PhD student to change that! At the Institute of Biomedical Engineering, ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/fabian-just_phd-position-ulm-university-germany-smart-activity-7527989114319667200-k72d",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7524831285236613120",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-07",
+  "poster_name": "Momen Abayazid",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "KFUPM",
+  "lab": "",
+  "country": "Saudi Arabia",
+  "research_areas": [
+   "Medical Robotics"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Recruiting fully funded PhD students in robotics at KFUPM, Saudi Arabia. Requires a biomedical engineering or related degree.",
+  "relevance": 18,
+  "relevance_reason": "Fully funded PhD but in Saudi Arabia and robotics, not imaging.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/momen-abayazid_fullyfundedphd-phdpositions-medicalrobotics-activity-7524831285236613120-sdp7",
+  "profile_url": "https://www.linkedin.com/in/momen-abayazid/",
+  "title": "Momen Abayazid's Post",
+  "snippet": "Fully Funded PhD Positions in Robotics | KFUPM, Saudi Arabia I am recruiting ... biomedical engineering, or a closely related discipline, with a minimum ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/momen-abayazid_fullyfundedphd-phdpositions-medicalrobotics-activity-7524831285236613120-sdp7",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526256869494046721",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-11",
+  "poster_name": "Researchers Job Board",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "Eindhoven University of Technology",
+  "lab": "PRIMA-CMR",
+  "country": "Netherlands",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Generative AI",
+   "Cardiac MRI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD scholarship in physics-informed generative AI for dynamic cardiac MRI within the PRIMA-CMR project, developing trustworthy methods.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match (medical imaging AI, trustworthy) but located in the Netherlands, so capped.",
+  "inferred_fields": [
+   "university"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/board-researchersjob-93685a20b_phd-scholarship-in-physics-informed-generative-activity-7526256869494046721-LNoL",
+  "profile_url": "https://www.linkedin.com/company/board-researchersjob-93685a20b/",
+  "title": "PhD Scholarship in Physics-Informed Generative AI for Dynamic Cardiac ...",
+  "snippet": "... PhD position in Physics-Informed Generative AI for Dynamic Cardiac MRI. The selected candidate will join the PRIMA-CMR project to develop trustworthy ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/board-researchersjob-93685a20b_phd-scholarship-in-physics-informed-generative-activity-7526256869494046721-LNoL",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525567154901897216",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Janine Bijsterbosch",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Eindhoven University of Technology",
+  "lab": "PRIMA-CMR",
+  "country": "Netherlands",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Generative AI",
+   "Cardiac MRI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Shares PhD position in physics-informed generative AI for dynamic cardiac MRI in the PRIMA-CMR project.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match but in the Netherlands, so capped.",
+  "inferred_fields": [
+   "university"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/janine-bijsterbosch-7b910381_opportunity-details-activity-7525567154901897216-HX89",
+  "profile_url": "https://www.linkedin.com/in/janine-bijsterbosch-7b910381/",
+  "title": "Opportunity Details | Janine Bijsterbosch",
+  "snippet": "... PhD position in Physics-Informed Generative AI for Dynamic Cardiac MRI. The selected candidate will join the PRIMA-CMR project to develop trustworthy ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/janine-bijsterbosch-7b910381_opportunity-details-activity-7525567154901897216-HX89",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525877201574076416",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-10",
+  "poster_name": "EAISI – Eindhoven Artificial Intelligence Systems Institute",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "Eindhoven University of Technology",
+  "lab": "EAISI / PRIMA-CMR",
+  "country": "Netherlands",
+  "research_areas": [
+   "Medical Image Analysis",
+   "Generative AI",
+   "Cardiac MRI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position in physics-informed generative AI for dynamic cardiac MRI, part of PRIMA-CMR.",
+  "relevance": 35,
+  "relevance_reason": "Strong topic match but in the Netherlands, so capped.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/eaisi_phd-generativeai-cardiacmri-activity-7525877201574076416-3d50",
+  "profile_url": "https://www.linkedin.com/company/eaisi/",
+  "title": "EAISI – Eindhoven Artificial Intelligence Systems Institute's Post",
+  "snippet": "... PhD position is part of PRIMA-CMR ... PhD in Physics-informed generative AI for dynamic cardiac MRI ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/eaisi_phd-generativeai-cardiacmri-activity-7525877201574076416-3d50",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526562871959363584",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-12",
+  "poster_name": "Professorship of Photogrammetry and Remote Sensing, TUM",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "Technical University of Munich",
+  "lab": "Professorship of Photogrammetry and Remote Sensing",
+  "country": "Germany",
+  "research_areas": [
+   "MRI",
+   "Deep Learning",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "PhD position (MCML, TUM) combining MRI physics with deep learning.",
+  "relevance": 30,
+  "relevance_reason": "Good topic match (MRI deep learning) but in Germany, funding not stated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/professorship-of-photogrammetry-and-remote-sensing-tum_phd-mcml-tum-activity-7526562871959363584-3vZB",
+  "profile_url": "https://www.linkedin.com/company/professorship-of-photogrammetry-and-remote-sensing-tum/",
+  "title": "Professorship of Photogrammetry and Remote Sensing | TUM's Post",
+  "snippet": "This position involves combining MRI physics with deep learning […] PhD Position ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/professorship-of-photogrammetry-and-remote-sensing-tum_phd-mcml-tum-activity-7526562871959363584-3vZB",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7525548337572323329",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "2026-11-09",
+  "poster_name": "Vedrana Andersen Dahl",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "DTU Compute",
+  "lab": "",
+  "country": "Denmark",
+  "research_areas": [
+   "Machine Learning",
+   "Neural Fields",
+   "Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Open PhD scholarship at DTU Compute in machine learning for non-stationary data using learnable representations such as neural fields.",
+  "relevance": 22,
+  "relevance_reason": "ML/imaging-related but in Denmark and not clearly medical.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/vedranaandersen_phd-scholarship-in-machine-learning-for-non-stationary-activity-7525548337572323329-k7w_",
+  "profile_url": "https://www.linkedin.com/in/vedranaandersen/",
+  "title": "Vedrana Andersen Dahl's Post - DTU Compute",
+  "snippet": "We have an open PhD position at DTU Compute for the best PhD project ever! The topic is amazing: using learnable representations, such as neural fields, ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/vedranaandersen_phd-scholarship-in-machine-learning-for-non-stationary-activity-7525548337572323329-k7w_",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "url:https://x.com/MoleiTaoMath/status/2120535823032647922",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "",
+  "poster_name": "Molei Tao",
+  "poster_type": "person",
+  "role": "PhD students recruiting",
+  "university": "Georgia Institute of Technology",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Generative Models",
+   "Diffusion",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Molei Tao is recruiting PhD students and a postdoc at Georgia Tech. The post mentions a postdoc working on normalizing flows and diffusion for medical imaging who would fit the group.",
+  "relevance": 55,
+  "relevance_reason": "PhD in the USA with some medical imaging overlap via generative models, but funding, deadline and intake are not stated and the group appears math/ML focused.",
+  "inferred_fields": [
+   "university",
+   "country"
+  ],
+  "source": "x",
+  "post_url": "https://x.com/MoleiTaoMath/status/2120535823032647922",
+  "profile_url": "",
+  "title": "Post",
+  "snippet": "I'm recruiting PhD students & postdoc @GeorgiaTech for ... got a postdoc doing normalizing flows and diffusion for medical imaging who'd fit the group.",
+  "links": [
+   {
+    "url": "https://x.com/MoleiTaoMath/status/2120535823032647922",
+    "source": "x"
+   }
+  ]
+ },
+ {
+  "id": "url:https://www.monash.edu/science/schools/physics/honours/honours-project/example-honours-projects",
+  "first_seen": "2026-11-18T04:27:40+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
+  "post_date": "",
+  "poster_name": "Monash University School of Physics",
+  "poster_type": "organization",
+  "role": "Honours and PhD projects",
+  "university": "Monash University",
+  "lab": "",
+  "country": "Australia",
+  "research_areas": [
+   "X-ray Optics",
+   "Phase and Dark-field Imaging",
+   "Medical Imaging"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Supervisor lists Honours and PhD positions in X-ray optics, phase and dark-field imaging and medical imaging at Monash.",
+  "relevance": 30,
+  "relevance_reason": "Medical imaging topic is relevant but it is physics-oriented, in Australia (outside target countries), with no funding stated.",
+  "inferred_fields": [],
+  "source": "web",
+  "post_url": "https://www.monash.edu/science/schools/physics/honours/honours-project/example-honours-projects",
+  "profile_url": "",
+  "title": "Project Supervisors - Science",
+  "snippet": "X-ray Optics, Phase and Dark-field Imaging, Medical Imaging. Conventional x ... I currently have Honours and PhD positions available. If you're excited ...",
+  "links": [
+   {
+    "url": "https://www.monash.edu/science/schools/physics/honours/honours-project/example-honours-projects",
+    "source": "web"
+   }
+  ]
+ },
+ {
   "id": "li:7524109470210342912",
   "first_seen": "2026-11-11T02:50:23+00:00",
-  "last_seen": "2026-11-11T02:50:23+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
   "post_date": "2026-11-05",
   "poster_name": "Christiana Banja",
   "poster_type": "person",
@@ -12,7 +1160,9 @@
   "country": "",
   "research_areas": [
    "Medical Imaging",
-   "Biomedical Engineering"
+   "Biomedical Engineering",
+   "Biomedical Research",
+   "Pharmaceutical Research"
   ],
   "degrees": [
    "PhD"
@@ -33,6 +1183,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/christiana-banja-b09484144_vacancy-phd-candidate-ai-driven-handheld-activity-7524109470210342912-3MNX",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/christiana-banja-b09484144_phdpositions-fullyfundedphd-msca-activity-7526363266001043457-94V-",
     "source": "linkedin"
    }
   ]
@@ -1056,7 +2210,7 @@
  {
   "id": "li:7519350684438364160",
   "first_seen": "2026-11-04T03:02:00+00:00",
-  "last_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
   "post_date": "2026-10-23",
   "poster_name": "owlindex",
   "poster_type": "organization",
@@ -1066,7 +2220,9 @@
   "country": "Germany",
   "research_areas": [
    "Medical AI",
-   "Differential Privacy"
+   "Differential Privacy",
+   "Biomedical Engineering",
+   "Medical Imaging"
   ],
   "degrees": [
    "PhD"
@@ -1076,7 +2232,7 @@
   "deadline_text": "",
   "start_term": "",
   "summary": "Fully funded PhD at RWTH Aachen on differential privacy in medical AI.",
-  "relevance": 30,
+  "relevance": 45,
   "relevance_reason": "Medical AI and funded PhD, but in Germany, outside the target countries.",
   "inferred_fields": [],
   "source": "linkedin",
@@ -1087,6 +2243,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/owlindex_differentialprivacy-medicalai-phdgermany-activity-7519350684438364160-HB9V",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bny-kay-37a671262_fully-funded-phd-position-in-biomedical-engineering-activity-7525295375348547584-G5J1",
     "source": "linkedin"
    }
   ]
@@ -3088,7 +4248,7 @@
  {
   "id": "li:7517218938779287552",
   "first_seen": "2026-10-20T20:09:40+00:00",
-  "last_seen": "2026-10-29T02:29:23+00:00",
+  "last_seen": "2026-11-18T04:27:40+00:00",
   "post_date": "2026-10-17",
   "poster_name": "PhDScanner",
   "poster_type": "organization",
@@ -3127,6 +4287,14 @@
    {
     "url": "https://www.linkedin.com/posts/phdscanner_doctoral-student-in-equitable-ai-for-breast-activity-7521132607980609536-a66H",
     "source": "linkedin"
+   },
+   {
+    "url": "https://x.com/PhdScanner/status/2120535515216662727",
+    "source": "x"
+   },
+   {
+    "url": "https://x.com/PhdScanner/status/2120910603338350984",
+    "source": "x"
    }
   ]
  },

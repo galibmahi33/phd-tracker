@@ -181,5 +181,18 @@
   "merged": 2,
   "pending": 0,
   "errors": []
+ },
+ {
+  "at": "2026-11-18T04:27:40+00:00",
+  "collected": 137,
+  "new_candidates": 52,
+  "already_seen": 48,
+  "filtered_out": 37,
+  "sent_to_claude": 52,
+  "accepted": 29,
+  "merged": 4,
+  "rejected": 19,
+  "pending": 0,
+  "errors": []
  }
 ]
