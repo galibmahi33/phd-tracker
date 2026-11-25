@@ -2295,5 +2295,96 @@
   "d": "2026-11-18",
   "s": "rejected",
   "why": "Industry summer internship, not a PhD/Master's recruitment opening."
+ },
+ "li:7526271054181429248": {
+  "d": "2026-11-25",
+  "s": "filtered"
+ },
+ "li:7526630499314810881": {
+  "d": "2026-11-25",
+  "s": "filtered"
+ },
+ "li:7528139475110187009": {
+  "d": "2026-11-25",
+  "s": "filtered"
+ },
+ "li:7528835993450217472": {
+  "d": "2026-11-25",
+  "s": "filtered"
+ },
+ "li:7527221594356858880": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7528168676181766144": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Applicant seeking PhD positions, not a recruiting post."
+ },
+ "li:7528341700591849473": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Applicant seeking PhD positions, not a recruiting post."
+ },
+ "li:7528346252208533504": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7526581441850433537": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7528183346712096768": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7529097674290073601": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7529871487365816320": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7528190155866873856": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7526723531062042624": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7530297081152946176": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7526585038021353472": {
+  "d": "2026-11-25",
+  "s": "accepted"
+ },
+ "li:7529928506567221248": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Staff job (Graduate Program Administrator), not a student opening"
+ },
+ "url:https://x.com/NYUDataScience/status/2123097003336904901": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Year-in-review of student achievements, not a recruitment post"
+ },
+ "url:https://www.ibt.kit.edu/english/6554.php": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Seminar/lecture page at KIT (Germany); no specific opening described"
+ },
+ "url:https://hst.mit.edu/news-events/twihst/volume-28-number-9": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Newsletter/seminar announcement; the PhD mention is a vague systems biology item, not a specific opening"
+ },
+ "url:https://tcairem.utoronto.ca/news/t-cairem-seeks-education-team-trainee-affiliates-2": {
+  "d": "2026-11-25",
+  "s": "rejected",
+  "why": "Seeks trainee affiliates for an education team, not a graduate admission or funded position"
  }
 }

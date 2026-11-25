@@ -1,5 +1,355 @@
 [
  {
+  "id": "li:7527221594356858880",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-14",
+  "poster_name": "Board Researchersjob",
+  "poster_type": "organization",
+  "role": "PhD",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Medical Imaging",
+   "Optical Coherence Tomography",
+   "Photonics"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Aggregator post listing funded PhD positions in medical imaging and a fully funded PhD in FLIM photonic integrated circuit design. Location and details are not stated.",
+  "relevance": 30,
+  "relevance_reason": "Medical imaging and funded PhD, but the country is unknown, the work looks photonics/hardware-leaning, and no timing is given.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/board-researchersjob-93685a20b_phd-scholarship-spectroscopic-optical-coherence-activity-7527221594356858880-xHHd",
+  "profile_url": "https://www.linkedin.com/company/board-researchersjob-93685a20b/",
+  "title": "Board Researchersjob's Post",
+  "snippet": "1w. Report this post; Close menu. Funded PhD position in Medical imaging and ... Fully Funded PhD Position in FLIM Photonic Integrated Circuit Design at ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/board-researchersjob-93685a20b_phd-scholarship-spectroscopic-optical-coherence-activity-7527221594356858880-xHHd",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528346252208533504",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-17",
+  "poster_name": "Khawar Islam",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Inria Paris",
+  "lab": "Astra-Vision group",
+  "country": "France",
+  "research_areas": [
+   "Computer Vision",
+   "Deep Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Spring 2027",
+  "summary": "Astra-Vision group at Inria Paris is recruiting a funded PhD student in computer vision and AI, starting Spring 2027.",
+  "relevance": 30,
+  "relevance_reason": "Computer vision PhD that is funded, but it is in France (outside target countries) and not medical.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/khawarislam_fully-funded-phd-position-in-multi-agent-activity-7528346252208533504-PuYL",
+  "profile_url": "https://www.linkedin.com/in/khawarislam/",
+  "title": "Khawar Islam's Post",
+  "snippet": "Funded PhD in Computer Vision & AI at Inria Paris | Start Spring 2027 ... The Astra-Vision group at Inria Paris is recruiting a PhD student for a 3 ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/khawarislam_fully-funded-phd-position-in-multi-agent-activity-7528346252208533504-PuYL",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526581441850433537",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-12",
+  "poster_name": "Science Hiring",
+  "poster_type": "organization",
+  "role": "PhD student",
+  "university": "MIT",
+  "lab": "Beery Lab",
+  "country": "USA",
+  "research_areas": [
+   "Computer Vision",
+   "Machine Learning"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Beery Lab at MIT is recruiting PhD students starting Fall 2027, working on computer vision.",
+  "relevance": 50,
+  "relevance_reason": "Fall 2027 PhD in the USA with computer vision, but it is likely not medical and funding is not stated.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/sciencehiring_hiring-career-activity-7526581441850433537-k4_3",
+  "profile_url": "https://www.linkedin.com/company/sciencehiring/",
+  "title": "#hiring #career | Science Hiring",
+  "snippet": "Science Hiring. 248 followers. 1w. Report this post; Close menu. BeeryLab at MIT recruiting PhD students (starting Fall 2027) They build computer vision ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/sciencehiring_hiring-career-activity-7526581441850433537-k4_3",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528183346712096768",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-16",
+  "poster_name": "Ani Ural",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Villanova University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Medical Imaging",
+   "Finite Element Modeling",
+   "Biomechanics"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Seeking a PhD student for a project involving finite element modeling and medical imaging at Villanova University.",
+  "relevance": 55,
+  "relevance_reason": "PhD in the USA with a medical imaging component, but the focus is biomechanics modeling, and funding and timing are not stated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/ani-ural-03a5947a_i-am-seeking-a-motivated-phd-student-to-activity-7528183346712096768-guDo",
+  "profile_url": "https://www.linkedin.com/in/ani-ural-03a5947a/",
+  "title": "Ani Ural's Post",
+  "snippet": "I am seeking a motivated Ph.D. student to join my lab at Villanova University. The project involves advanced finite element modeling, medical imaging, and",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/ani-ural-03a5947a_i-am-seeking-a-motivated-phd-student-to-activity-7528183346712096768-guDo",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7529097674290073601",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-19",
+  "poster_name": "Konstantinos Meletis",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "",
+  "lab": "",
+  "country": "",
+  "research_areas": [
+   "Neuroscience"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "",
+  "summary": "Two PhD student positions are open now in a lab.",
+  "relevance": 10,
+  "relevance_reason": "Appears to be neuroscience wet-lab work, likely in Sweden, and no details are given.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/konstantinos-meletis-84a8572a9_very-excited-to-soon-recruit-two-new-lab-activity-7529097674290073601-ZvWx",
+  "profile_url": "https://www.linkedin.com/in/konstantinos-meletis-84a8572a9/",
+  "title": "Konstantinos Meletis' Post",
+  "snippet": "very excited to soon recruit two new lab members! we have two PhD student positions open now, join us for amazing science in a stimulating and deeply ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/konstantinos-meletis-84a8572a9_very-excited-to-soon-recruit-two-new-lab-activity-7529097674290073601-ZvWx",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7528190155866873856",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-16",
+  "poster_name": "Arjun Krishnan",
+  "poster_type": "person",
+  "role": "PhD program applicants",
+  "university": "",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Informatics",
+   "Computational Biology",
+   "AI"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "2026-12-01",
+  "deadline_text": "Fall 2027 applications are due December 1",
+  "start_term": "Fall 2027",
+  "summary": "Biomedical Informatics PhD program applications for Fall 2027 are due December 1.",
+  "relevance": 50,
+  "relevance_reason": "Fall 2027 PhD with a near deadline, in the USA (country inferred), and a biomedical informatics and AI fit, but it is not imaging-specific and funding is not stated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/compbiologist_informatics-modeling-ai-activity-7528190155866873856-X_80",
+  "profile_url": "https://www.linkedin.com/in/compbiologist/",
+  "title": "Arjun Krishnan's Post",
+  "snippet": "... Fall 2027 are due December 1. Apply and see ... Biomedical Informatics #PhD #GradSchool #BiomedicalInformatics #ComputationalBiology #AI #Bioinformatics.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/compbiologist_informatics-modeling-ai-activity-7528190155866873856-X_80",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526723531062042624",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-12",
+  "poster_name": "Lu He",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "Arizona State University",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Informatics",
+   "Data Science"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "Recruiting PhD students for Fall 2027 at ASU through the Biomedical Informatics and Data Science PhD program.",
+  "relevance": 55,
+  "relevance_reason": "Fall 2027 PhD in the USA in biomedical informatics and data science, but the imaging fit and funding are unclear.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/lu-he-5218b8b5_biomedical-informatics-and-data-science-degree-activity-7526723531062042624-InM6",
+  "profile_url": "https://www.linkedin.com/in/lu-he-5218b8b5/",
+  "title": "Biomedical Informatics and Data Science Degree, PhD | ASU",
+  "snippet": "I am recruiting PhD students for Fall 2027 at ASU. If you have a background ... Biomedical Informatics and Data Science PhD and list me as a potential advisor.",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/lu-he-5218b8b5_biomedical-informatics-and-data-science-degree-activity-7526723531062042624-InM6",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7530297081152946176",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-22",
+  "poster_name": "Yi Zhang",
+  "poster_type": "person",
+  "role": "PhD student",
+  "university": "University of Connecticut",
+  "lab": "",
+  "country": "USA",
+  "research_areas": [
+   "Biomedical Engineering",
+   "Implantable Devices"
+  ],
+  "degrees": [
+   "PhD"
+  ],
+  "funding": "Not stated",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "Fall 2027",
+  "summary": "A Biomedical Engineering group at UConn is recruiting PhD students for Fall 2027, working on implantable devices.",
+  "relevance": 38,
+  "relevance_reason": "Fall 2027 PhD in the USA in biomedical engineering, but the work is device/hardware-focused rather than AI, and funding is not stated.",
+  "inferred_fields": [
+   "country"
+  ],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/yi-zhang-94785541_my-research-group-in-biomedical-engineering-activity-7530297081152946176-ooT1",
+  "profile_url": "https://www.linkedin.com/in/yi-zhang-94785541/",
+  "title": "Yi Zhang | University of Connecticut",
+  "snippet": "My research group in Biomedical Engineering at the University of Connecticut is recruiting PhD students starting in Fall 2027. We develop implantable and ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/yi-zhang-94785541_my-research-group-in-biomedical-engineering-activity-7530297081152946176-ooT1",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
+  "id": "li:7526585038021353472",
+  "first_seen": "2026-11-25T05:27:55+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
+  "post_date": "2026-11-12",
+  "poster_name": "Moses Okezie Chinedu",
+  "poster_type": "person",
+  "role": "MSc student",
+  "university": "University of Toronto",
+  "lab": "",
+  "country": "Canada",
+  "research_areas": [
+   "Neuroscience",
+   "Biomedical Research"
+  ],
+  "degrees": [
+   "Master's"
+  ],
+  "funding": "Fully funded",
+  "deadline": "",
+  "deadline_text": "",
+  "start_term": "2027",
+  "summary": "Post advertises a fully funded research MSc opportunity at the University of Toronto in neuroscience and biomedical research for 2027.",
+  "relevance": 42,
+  "relevance_reason": "Fully funded Master's in Canada with a 2027 start, but the topic is neuroscience and not clearly imaging AI.",
+  "inferred_fields": [],
+  "source": "linkedin",
+  "post_url": "https://www.linkedin.com/posts/moses-okezie-chinedu-816a40277_universityoftoronto-fullyfundedmsc-neuroscience-activity-7526585038021353472-SuqB",
+  "profile_url": "https://www.linkedin.com/in/moses-okezie-chinedu-816a40277/",
+  "title": "Moses Okezie Chinedu's Post",
+  "snippet": "FULLY FUNDED RESEARCH MSc OPPORTUNITY — UNIVERSITY OF TORONTO, CANADA The ... FUNDED MSc RESEARCH OPPORTUNITY 2027 — NEUROSCIENCE & BIOMEDICAL RESEARCH ...",
+  "links": [
+   {
+    "url": "https://www.linkedin.com/posts/moses-okezie-chinedu-816a40277_universityoftoronto-fullyfundedmsc-neuroscience-activity-7526585038021353472-SuqB",
+    "source": "linkedin"
+   }
+  ]
+ },
+ {
   "id": "li:7526159420351725568",
   "first_seen": "2026-11-18T04:27:40+00:00",
   "last_seen": "2026-11-18T04:27:40+00:00",
@@ -2015,7 +2365,7 @@
  {
   "id": "li:7520696132323139584",
   "first_seen": "2026-11-04T03:02:00+00:00",
-  "last_seen": "2026-11-04T03:02:00+00:00",
+  "last_seen": "2026-11-25T05:27:55+00:00",
   "post_date": "2026-10-27",
   "poster_name": "laplaceexpert",
   "poster_type": "unknown",
@@ -2025,7 +2375,10 @@
   "country": "Europe",
   "research_areas": [
    "Medical Image Analysis",
-   "Scientific Machine Learning"
+   "Scientific Machine Learning",
+   "Medical AI",
+   "Multimodal Learning",
+   "Foundation Models"
   ],
   "degrees": [
    "PhD"
@@ -2035,7 +2388,7 @@
   "deadline_text": "",
   "start_term": "",
   "summary": "Post lists European AI PhD opportunities including medical imaging and scientific machine learning positions. Details are sparse.",
-  "relevance": 30,
+  "relevance": 50,
   "relevance_reason": "Medical imaging topic fits, but positions are in Europe, not the USA or Canada, and funding is unstated.",
   "inferred_fields": [],
   "source": "linkedin",
@@ -2046,6 +2399,10 @@
   "links": [
    {
     "url": "https://www.linkedin.com/posts/laplaceexpert_phdopportunities-artificialintelligence-machinelearning-activity-7520696132323139584-xCzG",
+    "source": "linkedin"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/laplaceexpert_phdposition-phd-academicjobs-activity-7529871487365816320-djMM",
     "source": "linkedin"
    }
   ]
